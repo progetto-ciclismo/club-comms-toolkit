@@ -2,8 +2,9 @@
 
 | Tipo | Composizione |
 |---|---|
-| Annuncio gare | Titolo + introduzione + dettagli + frase SEO |
-| Resoconto post-gara | Titolo + cronaca breve sui vincitori e i piazzamenti della società + menzione della squadra |
+| Anteprima gare | Titolo a due parti + introduzione narrativa + schede gara per giorno e categoria + frase SEO |
+| Risultati | Titolo formulaico `Risultati Cat. X – Località (PROV)` + piazzamenti per sottocategoria |
+| Resoconto con cronaca | Titolo a due parti + cronaca sui vincitori e i piazzamenti + classifica di società |
 | Convocazione | Comunicato breve: nome atleta, evento, motivazione |
 | Comunicato societario | Titolo + testo + ringraziamento al direttivo uscente + elenco dei nuovi membri |
 | Post social | Tre varianti: lunga, media, corta |

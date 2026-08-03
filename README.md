@@ -3,7 +3,7 @@
 Prompt strutturati per la comunicazione di una società ciclistica giovanile:
 **contenuti social** e **redazione per il sito web**.
 
-Sviluppato per l'**[A.S.D. Progetto Ciclismo - Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/)**,
+Sviluppato per l'**[A.S.D. Progetto Ciclismo – Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/)**,
 società affiliata FCI attiva nelle categorie Giovanissimi, Esordienti e Allievi.
 
 Il progetto è **agnostico rispetto al modello**: un unico contenuto sorgente
@@ -102,6 +102,13 @@ generati:
 Il modulo `core/shared/` finisce in entrambe le skill: una modifica all'identità
 societaria o alle regole sui minori si propaga automaticamente a tutti gli
 output.
+
+## Allineamento con i contenuti pubblicati
+
+Le regole editoriali sono state verificate contro gli articoli effettivamente
+pubblicati sul sito. Le regole social derivano invece dal prompt in uso e non da
+un'analisi diretta dei post: vanno riviste da chi gestisce i canali. Dettagli in
+[docs/alignment-check.md](docs/alignment-check.md).
 
 ## Privacy
 

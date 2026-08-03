@@ -1,12 +1,12 @@
-# Esempio di output editoriale - Resoconto gara
+# Esempio di output editoriale - Risultati
 
 > **DATI FITTIZI.** Output dimostrativo generato sui dati di `sample-input-risultati.md`.
 
 ---
 
-# Quattro vittorie per i Giovanissimi a Nuvolento
+# Risultati Cat. Giovanissimi – Nuvolento (BS)
 
-Domenica 24 agosto 2025 i Giovanissimi di A.S.D. Progetto Ciclismo - Rodengo
+Domenica 24 agosto 2025 i Giovanissimi di A.S.D. Progetto Ciclismo – Rodengo
 Saiano hanno chiuso con quattro successi la giornata di Nuvolento (BS), a cui si
 aggiunge il secondo posto nella classifica di società, sia assoluta sia
 femminile.

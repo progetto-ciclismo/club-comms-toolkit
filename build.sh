@@ -6,7 +6,7 @@ set -euo pipefail
 
 SHARED=(core/shared/00-identity.md core/shared/01-shared-rules.md)
 SOCIAL=(core/social/10-role.md core/social/11-style.md core/social/12-content-rules.md core/social/13-triggers.md)
-EDITORIAL=(core/editorial/20-role.md core/editorial/21-article-format.md core/editorial/22-seo.md core/editorial/23-content-types.md)
+EDITORIAL=(core/editorial/20-role.md core/editorial/21-article-format.md core/editorial/22-seo.md core/editorial/23-content-types.md core/editorial/24-lexicon.md)
 
 assemble() {
   local out="$1"; shift
