@@ -69,15 +69,30 @@ I cuori 💛💙 compaiono in quasi ogni post.
 **Non in uso.** I post pubblicati non contengono hashtag. Inserirli solo su
 richiesta esplicita.
 
-## Formato dei piazzamenti
+## Formato dei piazzamenti - due convenzioni
+
+Le convenzioni sono **diverse tra social e sito** e non vanno mescolate.
+
+**Social (prosa):**
 
 `Nome Cognome (posizione nella categoria)` — Lorenzo Richetti (2° nei G1),
 Matilde Dasoli (3ª nelle G5F).
 
 Concordanza al femminile obbligatoria: 1ª, 2ª, 3ª, "nelle" invece di "nei",
-"Campionessa" invece di "Campione".
+"Campionessa" invece di "Campione". Sottocategorie in forma compatta: G2F, G5F.
 
-Sottocategorie Giovanissimi: G1-G6, suffisso F per le prove femminili.
+**Articolo risultati sul sito (record strutturato):**
+
+`[Sigla]: [pos]° Class. [Cognome Nome] e [pos]° Class. [Cognome Nome];`
+
+G1: 1° Class. Gaia Mattia e 2° Class. Richetti Lorenzo;
+G5 Fem.: 1° Class. Richetti Angela e 3° Class. Dasoli Matilde;
+
+Ordine Cognome Nome. Abbreviazione `Class.` puntata. Ordinale `°` anche per le
+atlete. Sottocategorie in forma estesa: G2 Fem., G5 Fem. Punto e virgola a fine
+riga, punto sull'ultima.
+
+Riga finale: `Classifica: 2° Classificata assoluta e 3° Classificata nel Femminile.`
 
 ## Ordine nei post risultati
 

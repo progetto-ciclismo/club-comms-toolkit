@@ -98,10 +98,28 @@ Gli atleti sono minorenni. Vale sempre:
 
 ### Nomi
 
-- Sempre **Nome + Cognome** (es. Marco Bianchi), mai solo cognome.
-- Nei risultati, formato `Nome Cognome (categoria)`.
-- Se l'utente chiede l'inversione nome/cognome, applicala senza discutere.
+L'ordine dipende dal contesto e non va uniformato.
+
+| Contesto | Ordine | Esempio |
+|---|---|---|
+| Post social, prosa, cronaca, comunicati | Nome Cognome | Mattia Gaia |
+| Articolo risultati sul sito | **Cognome Nome** | Gaia Mattia |
+
+L'inversione nell'articolo risultati non è un errore: è la convenzione degli
+elenchi federali e va rispettata su quella pagina.
+
+- Mai solo il cognome, in nessun contesto.
+- Se l'utente chiede esplicitamente un ordine diverso, applicalo senza discutere.
 - Riproduci gli elenchi nell'ordine di categoria fornito dall'utente.
+
+### Sottocategorie Giovanissimi
+
+Anche la notazione dipende dal canale.
+
+| Contesto | Forma | Esempio |
+|---|---|---|
+| Post social | Compatta | G2F, G5F |
+| Articolo risultati sul sito | Estesa | G2 Fem., G5 Fem. |
 
 ### Date
 
@@ -232,12 +250,62 @@ Non aggiungere ringraziamenti generici di riempimento.
 
 ## Struttura dell'articolo risultati
 
-Titolo formulaico, poi i piazzamenti della società raggruppati per
-sottocategoria (G1-G6, femminile, primo e secondo anno).
+**L'articolo risultati non è un resoconto narrativo.** È un record strutturato,
+senza introduzione, senza cronaca e senza paragrafo di chiusura. La prosa
+celebrativa appartiene ai social, non a questa pagina.
 
-Per i resoconti con cronaca: menziona al massimo i primi 3 per gara o batteria,
-più la migliore prestazione femminile, e chiudi con la classifica di società
-quando disponibile.
+Struttura, nell'ordine:
+
+1. Riga `Località: [Comune] ([PROV])`
+2. Una riga per ogni sottocategoria con piazzamenti
+3. Riga `Classifica:` con il risultato di società
+4. Immagine
+5. Credito fotografico in corsivo
+
+### Formato delle righe di piazzamento
+
+```
+G1: 1° Class. Gaia Mattia e 2° Class. Richetti Lorenzo;
+G2 Fem.: 1° Class. Mancino Chiara;
+G4: 3° Class. Mancino Nicolò;
+G5 Fem.: 1° Class. Richetti Angela e 3° Class. Dasoli Matilde;
+G6: 5° Class. Guerini Ettore.
+```
+
+Regole vincolanti:
+
+- **Ordine COGNOME NOME**, invertito rispetto ai social. È la convenzione dei
+  risultati federali e va rispettata su questa pagina.
+- Abbreviazione `Class.` per "Classificato", sempre puntata.
+- Ordinale con il simbolo `°` anche per le atlete: `1° Class. Mancino Chiara`.
+- Sottocategorie femminili scritte `G2 Fem.`, `G5 Fem.`, non `G2F`.
+  La forma compatta con la F appartiene ai social.
+- Più atleti nella stessa sottocategoria uniti da `e`.
+- **Punto e virgola** a fine di ogni riga, **punto** sull'ultima.
+- Una riga vuota tra una sottocategoria e l'altra.
+- Sigle in ordine crescente: G1, G2, G3, G4, G5, G6, con la variante femminile
+  subito dopo la maschile della stessa sigla.
+
+### Riga della classifica di società
+
+```
+Classifica: 2° Classificata assoluta e 3° Classificata nel Femminile.
+```
+
+Si usa la parola estesa `Classificata`, con l'ordinale `°`. Se manca una delle
+due graduatorie, riporta solo quella disponibile.
+
+### Categorie diverse dai Giovanissimi
+
+Per Esordienti e Allievi, al posto delle sigle G usa la denominazione della
+prova: `Esordienti 1° anno:`, `Esordienti 2° anno:`, `Allievi:`.
+
+### Resoconto con cronaca
+
+È un tipo di articolo **distinto** dall'articolo risultati, da produrre solo se
+l'utente lo chiede esplicitamente. In quel caso vale il titolo a due parti delle
+anteprime, non il titolo formulaico, e si menzionano al massimo i primi 3 per
+gara più la migliore prestazione femminile.
 
 ## Lunghezze
 
@@ -359,25 +427,21 @@ genitori.]
 ```
 # Risultati Cat. [Categoria] [specialità] – [Località] ([PROV])
 
-[Frase di apertura con il bilancio della giornata, se richiesta la cronaca.]
+Località: [Comune] ([PROV])
 
-## [Sottocategoria: G1, G2... / 1° anno / 2° anno / Femminile]
+[Sigla]: [pos]° Class. [Cognome Nome] e [pos]° Class. [Cognome Nome];
 
-- [posizione]° [Nome Cognome]
-- [posizione]° [Nome Cognome]
+[Sigla]: [pos]° Class. [Cognome Nome];
 
-## [Sottocategoria]
+[Sigla] Fem.: [pos]° Class. [Cognome Nome] e [pos]° Class. [Cognome Nome];
 
-- [posizione]° [Nome Cognome]
+[Sigla]: [pos]° Class. [Cognome Nome].
 
-## Classifica di società
+Classifica: [pos]° Classificata assoluta e [pos]° Classificata nel Femminile.
 
-[Posizione a squadre, se disponibile.]
+[immagine]
 
----
-
-**Frase SEO** (max 191 caratteri):
-[ ]
+*📸 [Credito fotografico]*
 ```
 
 ### scheda-gara

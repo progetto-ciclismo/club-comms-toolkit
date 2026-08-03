@@ -1,50 +1,37 @@
-# Esempio di output editoriale - Risultati
+# Esempio di output editoriale - Articolo risultati
 
-> **DATI FITTIZI.** Output dimostrativo generato sui dati di `sample-input-risultati.md`.
-
----
-
-# Risultati Cat. Giovanissimi – Nuvolento (BS)
-
-Domenica 24 agosto 2025 i Giovanissimi di A.S.D. Progetto Ciclismo – Rodengo
-Saiano hanno chiuso con quattro successi la giornata di Nuvolento (BS), a cui si
-aggiunge il secondo posto nella classifica di società, sia assoluta sia
-femminile.
-
-Nella stessa giornata gli Esordienti erano impegnati a Cassinone di Seriate
-(BG), dove hanno portato a casa un podio.
-
-## Giovanissimi - Nuvolento (BS)
-
-Denominazione: Trofeo di Nuvolento
-Località: Nuvolento (BS)
-Data: 24 agosto 2025
-Categoria: Giovanissimi
-Distanza: circuito da 0,75 km
-Partenza: ore 9:00
-
-Quattro le vittorie: Giulia Ferrari nella G1 femminile, Matteo Rossi nella G3,
-Sara Bianchi nella G4 femminile e Davide Colombo nella G5, categoria in cui Luca
-Greco ha completato la giornata con un terzo posto. Secondo gradino del podio
-per Andrea Marchetti nella G6.
-
-## Esordienti - Cassinone di Seriate (BG)
-
-Denominazione: Trofeo Pietro Rossi
-Località: Cassinone di Seriate (BG)
-Data: 24 agosto 2025
-Categoria: Esordienti
-
-Terzo posto per Filippo Conti tra gli Esordienti di secondo anno, ottavo
-Nicolo Ferri. Tra i primo anno, quinta piazza per Simone Barbieri.
+> **DATI FITTIZI.** Nomi, località e piazzamenti sono inventati.
+> Il formato replica quello degli articoli effettivamente pubblicati.
 
 ---
 
-Un ringraziamento allo staff, ai volontari e ai genitori che hanno accompagnato
-i ragazzi in una giornata su due fronti.
+# Risultati Cat. Giovanissimi – Ospitaletto (BS)
+
+Località: Ospitaletto (BS)
+
+G1: 1° Class. Rossi Marco e 2° Class. Colombo Davide;
+
+G2 Fem.: 1° Class. Ferrari Giulia;
+
+G4: 3° Class. Marchetti Andrea;
+
+G5: 2° Class. Greco Luca;
+
+G5 Fem.: 1° Class. Bianchi Sara e 3° Class. Costa Elena;
+
+G6: 5° Class. Barbieri Simone.
+
+Classifica: 2° Classificata assoluta e 3° Classificata nel Femminile.
+
+[immagine]
+
+*📸 [Credito fotografico]*
 
 ---
 
-**Frase SEO** (167 caratteri):
-Quattro vittorie per i Giovanissimi di Progetto Ciclismo a Nuvolento il 24
-agosto 2025 e un podio Esordienti a Cassinone di Seriate.
+## Nota
+
+Nessuna introduzione, nessuna cronaca, nessun paragrafo di ringraziamento.
+I nomi sono in ordine Cognome Nome, le sottocategorie femminili in forma estesa
+(`G2 Fem.`). La versione narrativa degli stessi risultati appartiene ai social,
+dove i nomi tornano in ordine Nome Cognome e le sigle diventano compatte (G2F).

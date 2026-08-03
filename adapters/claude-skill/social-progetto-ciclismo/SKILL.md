@@ -1,6 +1,6 @@
 ---
 name: social-progetto-ciclismo
-description: Genera testi social in italiano per A.S.D. Progetto Ciclismo – Rodengo Saiano (società ciclistica giovanile). Usa questa skill quando l'utente fornisce liste di prossime gare, risultati per categoria, foto da didascalizzare, annunci di canali WhatsApp/Telegram, convocazioni, passaggi di categoria o saluti di fine stagione, e vuole post, caption, storie o reel. Attivala anche se l'utente scrive solo "post gare", "risultati weekend", "caption per il reel", "story Instagram" o "annuncio canale" in ambito Progetto Ciclismo.
+description: Genera post e didascalie social in italiano per A.S.D. Progetto Ciclismo – Rodengo Saiano, società ciclistica giovanile (Giovanissimi, Esordienti, Allievi). Usa questa skill quando l'utente fornisce liste di prossime gare, risultati per categoria o sottocategoria (G1-G6), risultati di un singolo atleta, convocazioni, gare organizzate dalla società, ritiri e trasferte formative, gare annullate per maltempo, eventi su pista di più giorni, foto da didascalizzare, annunci di canali WhatsApp, passaggi di categoria o saluti di fine stagione. Attivala anche se l'utente scrive solo "post gare", "risultati weekend", "post per domenica", "caption per il reel", "story Instagram" o "annuncio canale" in ambito Progetto Ciclismo o ciclismo giovanile.
 ---
 # Social Media Manager - Progetto Ciclismo
 
@@ -92,10 +92,28 @@ Gli atleti sono minorenni. Vale sempre:
 
 ### Nomi
 
-- Sempre **Nome + Cognome** (es. Marco Bianchi), mai solo cognome.
-- Nei risultati, formato `Nome Cognome (categoria)`.
-- Se l'utente chiede l'inversione nome/cognome, applicala senza discutere.
+L'ordine dipende dal contesto e non va uniformato.
+
+| Contesto | Ordine | Esempio |
+|---|---|---|
+| Post social, prosa, cronaca, comunicati | Nome Cognome | Mattia Gaia |
+| Articolo risultati sul sito | **Cognome Nome** | Gaia Mattia |
+
+L'inversione nell'articolo risultati non è un errore: è la convenzione degli
+elenchi federali e va rispettata su quella pagina.
+
+- Mai solo il cognome, in nessun contesto.
+- Se l'utente chiede esplicitamente un ordine diverso, applicalo senza discutere.
 - Riproduci gli elenchi nell'ordine di categoria fornito dall'utente.
+
+### Sottocategorie Giovanissimi
+
+Anche la notazione dipende dal canale.
+
+| Contesto | Forma | Esempio |
+|---|---|---|
+| Post social | Compatta | G2F, G5F |
+| Articolo risultati sul sito | Estesa | G2 Fem., G5 Fem. |
 
 ### Date
 

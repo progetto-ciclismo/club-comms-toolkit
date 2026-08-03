@@ -23,6 +23,11 @@ le regole trattano i canali come un registro unico.
 | Denominazione con trattino breve | Portata a trattino lungo (en dash), come sul sito |
 | Titolo articoli descritto come "breve ed efficace" | Documentate le due convenzioni reali: anteprime a due parti con i due punti, risultati con formato fisso |
 | Tipo "Risultati Cat. X – Località (PROV)" non modellato | Aggiunto come tipo di articolo con template dedicato |
+| Articolo risultati modellato come resoconto narrativo | Corretto: e un record strutturato, senza introduzione ne cronaca |
+| Nomi in ordine Nome Cognome ovunque | Reso dipendente dal canale: Cognome Nome nell'articolo risultati, Nome Cognome altrove |
+| Sottocategorie sempre in forma compatta (G5F) | Rese dipendenti dal canale: forma estesa (G5 Fem.) sul sito |
+| Piazzamenti come elenco puntato sotto intestazioni | Corretti: una riga per sottocategoria, con "Class." e punto e virgola |
+| Classifica di società come sezione | Corretta: riga singola "Classifica: ... Classificata assoluta e ... nel Femminile." |
 | Scheda gara con campi Data e Categoria | Corretta: giorno e categoria sono intestazioni, non campi dell'elenco |
 | Paragrafo finale obbligatorio | Reso opzionale: le anteprime pubblicate si chiudono con le schede |
 | Canali social incompleti | Aggiunti X (Twitter), YouTube e canale WhatsApp |
@@ -60,6 +65,15 @@ le regole trattano i canali come un registro unico.
 5. **Post non collegati a un articolo.** Alcuni post (flash risultato, gara
    annullata, chiusura di eventi pluri-giornata) non hanno link al sito.
    Confermare che sia una scelta e non una dimenticanza.
+
+## Verifica del 3 agosto 2026 - articoli risultati
+
+Fonte: indice `/risultati/` e articolo `Risultati Cat. Giovanissimi – Coccaglio (BS)`.
+
+La verifica ha rivelato che il tipo "articolo risultati" era stato modellato in
+modo sostanzialmente errato: era stato assimilato a un resoconto giornalistico,
+mentre nella pratica pubblicata e un record strutturato con convenzioni proprie,
+diverse da quelle social anche nell'ordine dei nomi.
 
 ## Nota redazionale
 

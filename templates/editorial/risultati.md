@@ -1,21 +1,17 @@
 # Risultati Cat. [Categoria] [specialità] – [Località] ([PROV])
 
-[Frase di apertura con il bilancio della giornata, se richiesta la cronaca.]
+Località: [Comune] ([PROV])
 
-## [Sottocategoria: G1, G2... / 1° anno / 2° anno / Femminile]
+[Sigla]: [pos]° Class. [Cognome Nome] e [pos]° Class. [Cognome Nome];
 
-- [posizione]° [Nome Cognome]
-- [posizione]° [Nome Cognome]
+[Sigla]: [pos]° Class. [Cognome Nome];
 
-## [Sottocategoria]
+[Sigla] Fem.: [pos]° Class. [Cognome Nome] e [pos]° Class. [Cognome Nome];
 
-- [posizione]° [Nome Cognome]
+[Sigla]: [pos]° Class. [Cognome Nome].
 
-## Classifica di società
+Classifica: [pos]° Classificata assoluta e [pos]° Classificata nel Femminile.
 
-[Posizione a squadre, se disponibile.]
+[immagine]
 
----
-
-**Frase SEO** (max 191 caratteri):
-[ ]
+*📸 [Credito fotografico]*
