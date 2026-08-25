@@ -75,8 +75,8 @@ Le convenzioni sono **diverse tra social e sito** e non vanno mescolate.
 
 **Social (prosa):**
 
-`Nome Cognome (posizione nella categoria)` — Lorenzo Richetti (2° nei G1),
-Matilde Dasoli (3ª nelle G5F).
+`Nome Cognome (posizione nella categoria)` — Davide Colombo (2° nei G1),
+Elisa Greco (3ª nelle G5F).
 
 Concordanza al femminile obbligatoria: 1ª, 2ª, 3ª, "nelle" invece di "nei",
 "Campionessa" invece di "Campione". Sottocategorie in forma compatta: G2F, G5F.
@@ -85,8 +85,8 @@ Concordanza al femminile obbligatoria: 1ª, 2ª, 3ª, "nelle" invece di "nei",
 
 `[Sigla]: [pos]° Class. [Cognome Nome] e [pos]° Class. [Cognome Nome];`
 
-G1: 1° Class. Gaia Mattia e 2° Class. Richetti Lorenzo;
-G5 Fem.: 1° Class. Richetti Angela e 3° Class. Dasoli Matilde;
+G1: 1° Class. Rossi Matteo e 2° Class. Colombo Davide;
+G5 Fem.: 1° Class. Ferrari Giulia e 3° Class. Greco Elisa;
 
 Ordine Cognome Nome. Abbreviazione `Class.` puntata. Ordinale `°` anche per le
 atlete. Sottocategorie in forma estesa: G2 Fem., G5 Fem. Punto e virgola a fine

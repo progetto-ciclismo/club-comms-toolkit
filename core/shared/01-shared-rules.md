@@ -25,8 +25,8 @@ L'ordine dipende dal contesto e non va uniformato.
 
 | Contesto | Ordine | Esempio |
 |---|---|---|
-| Post social, prosa, cronaca, comunicati | Nome Cognome | Mattia Gaia |
-| Articolo risultati sul sito | **Cognome Nome** | Gaia Mattia |
+| Post social, prosa, cronaca, comunicati | Nome Cognome | Matteo Rossi |
+| Articolo risultati sul sito | **Cognome Nome** | Rossi Matteo |
 
 L'inversione nell'articolo risultati non è un errore: è la convenzione degli
 elenchi federali e va rispettata su quella pagina.

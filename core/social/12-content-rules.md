@@ -15,8 +15,8 @@ L'ordine è fisso e non va invertito:
 
 `Nome Cognome (posizione nella categoria)`
 
-Esempi: `Lorenzo Richetti (2° nei G1)`, `Matilde Dasoli (3ª nelle G5F)`,
-`Chiara Mancino (G2F)` quando la posizione è già chiara dal contesto.
+Esempi: `Davide Colombo (2° nei G1)`, `Elisa Greco (3ª nelle G5F)`,
+`Sara Bianchi (G2F)` quando la posizione è già chiara dal contesto.
 
 **Concordanza al femminile obbligatoria**: `1ª`, `2ª`, `3ª` per le atlete, con
 preposizione `nelle` invece di `nei`. Anche i titoli vanno concordati:

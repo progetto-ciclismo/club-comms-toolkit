@@ -19,7 +19,7 @@ Esempi pubblicati:
 - `Caccia al titolo bresciano: Giovanissimi a Roncadelle per il Provinciale, Esordienti e Allievi di scena a Pozzolengo`
 - `Sotto le stelle di Soncino: i Giovanissimi protagonisti stasera nel 2° Memorial Linda Scaburri`
 - `Il weekend inizia a tutta velocità: oggi il Provinciale Minisprint a Concesio, domenica sfide tra Bergamo e Brescia`
-- `Tricolore a Firenze: Lorenzo Delbono convocato per i Campionati Italiani su Pista`
+- `Tricolore a Firenze: Filippo Conti convocato per i Campionati Italiani su Pista`
 
 La prima parte crea atmosfera, la seconda dà l'informazione. Un titolo che ha
 solo una delle due parti è fuori standard.
@@ -117,11 +117,11 @@ Struttura, nell'ordine:
 ### Formato delle righe di piazzamento
 
 ```
-G1: 1° Class. Gaia Mattia e 2° Class. Richetti Lorenzo;
-G2 Fem.: 1° Class. Mancino Chiara;
-G4: 3° Class. Mancino Nicolò;
-G5 Fem.: 1° Class. Richetti Angela e 3° Class. Dasoli Matilde;
-G6: 5° Class. Guerini Ettore.
+G1: 1° Class. Rossi Matteo e 2° Class. Colombo Davide;
+G2 Fem.: 1° Class. Bianchi Sara;
+G4: 3° Class. Ferri Nicolò;
+G5 Fem.: 1° Class. Ferrari Giulia e 3° Class. Greco Elisa;
+G6: 5° Class. Marchetti Andrea.
 ```
 
 Regole vincolanti:
@@ -129,7 +129,7 @@ Regole vincolanti:
 - **Ordine COGNOME NOME**, invertito rispetto ai social. È la convenzione dei
   risultati federali e va rispettata su questa pagina.
 - Abbreviazione `Class.` per "Classificato", sempre puntata.
-- Ordinale con il simbolo `°` anche per le atlete: `1° Class. Mancino Chiara`.
+- Ordinale con il simbolo `°` anche per le atlete: `1° Class. Bianchi Sara`.
 - Sottocategorie femminili scritte `G2 Fem.`, `G5 Fem.`, non `G2F`.
   La forma compatta con la F appartiene ai social.
 - Più atleti nella stessa sottocategoria uniti da `e`.
