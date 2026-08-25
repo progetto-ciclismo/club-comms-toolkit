@@ -3,6 +3,7 @@
 | Tipo | Composizione |
 |---|---|
 | Anteprima gare | Titolo a due parti + introduzione narrativa + schede gara per giorno e categoria + frase SEO |
+| Annuncio gara | Titolo breve + introduzione + scheda della gara + informazioni pratiche + frase SEO |
 | Risultati | Titolo formulaico `Risultati Cat. X – Località (PROV)` + piazzamenti per sottocategoria |
 | Resoconto con cronaca | Titolo a due parti + cronaca sui vincitori e i piazzamenti + classifica di società |
 | Convocazione | Comunicato breve: nome atleta, evento, motivazione |
