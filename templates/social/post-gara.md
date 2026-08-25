@@ -7,7 +7,8 @@ individuali.] 💛💙
 vincitori: Nome Cognome (G1), Nome Cognome (G2F)..."] 🥇
 
 [Podi e piazzamenti: "A completare questa bellissima festa ci pensano i preziosi
-piazzamenti di Nome Cognome (2° nei G1), Nome Cognome (3ª nelle G5F)..."] 👏
+piazzamenti di Nome Cognome (2° nei G1), Nome Cognome (3ª nelle G5F)..."
+"bellissima" è l'unico superlativo del post: il tetto resta 1-2.] 👏
 
 [Chiusura con complimento collettivo] 🚀
 
