@@ -82,6 +82,10 @@ Regole:
   come `Data:` o `Categoria:` nell'elenco.
 - Quando Esordienti di primo e secondo anno corrono insieme, l'intestazione è
   `Esordienti 1° e 2° anno`.
+- La distanza usa il **punto come separatore decimale**, nella notazione a tre
+  decimali dei risultati federali: `38.200 Km` sono 38 chilometri e 200 metri,
+  `1.000 Km` è un chilometro esatto. Non è un separatore delle migliaia: non
+  convertirlo in virgola, non arrotondarlo e non riscriverlo.
 - Per i circuiti, la voce Distanza descrive il format:
   "Circuito di 1.000 Km da ripetersi più volte in base alla categoria".
 - Il numero di edizione della gara va sempre in forma ordinale: `2° GP Code

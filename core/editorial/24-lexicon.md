@@ -33,6 +33,7 @@ paragoni con atleti professionisti, enfasi sul singolo a scapito della squadra.
 | Località | Comune ([PROV]) — es. Coccaglio (BS), Dro - Loc. Oltra (TN) |
 | Edizione gara | Ordinale — 2° GP Code Stampi |
 | Date nel testo | In grassetto — **domenica 2 agosto** |
+| Distanza | Punto come separatore decimale — 38.200 Km, 0.900 Km |
 | Orari | Ore 16:00 |
 | Iscritti | 186 Atleti |
 | Categoria combinata | Esordienti 1° e 2° anno |
