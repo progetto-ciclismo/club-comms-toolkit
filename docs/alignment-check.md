@@ -23,7 +23,7 @@ le regole trattano i canali come un registro unico.
 | Denominazione con trattino breve | Portata a trattino lungo (en dash), come sul sito |
 | Titolo articoli descritto come "breve ed efficace" | Documentate le due convenzioni reali: anteprime a due parti con i due punti, risultati con formato fisso |
 | Tipo "Risultati Cat. X – Località (PROV)" non modellato | Aggiunto come tipo di articolo con template dedicato |
-| Articolo risultati modellato come resoconto narrativo | Corretto: e un record strutturato, senza introduzione ne cronaca |
+| Articolo risultati modellato come resoconto narrativo | Corretto: è un record strutturato, senza introduzione né cronaca |
 | Nomi in ordine Nome Cognome ovunque | Reso dipendente dal canale: Cognome Nome nell'articolo risultati, Nome Cognome altrove |
 | Sottocategorie sempre in forma compatta (G5F) | Rese dipendenti dal canale: forma estesa (G5 Fem.) sul sito |
 | Piazzamenti come elenco puntato sotto intestazioni | Corretti: una riga per sottocategoria, con "Class." e punto e virgola |
@@ -72,7 +72,7 @@ Fonte: indice `/risultati/` e articolo `Risultati Cat. Giovanissimi – Coccagli
 
 La verifica ha rivelato che il tipo "articolo risultati" era stato modellato in
 modo sostanzialmente errato: era stato assimilato a un resoconto giornalistico,
-mentre nella pratica pubblicata e un record strutturato con convenzioni proprie,
+mentre nella pratica pubblicata è un record strutturato con convenzioni proprie,
 diverse da quelle social anche nell'ordine dei nomi.
 
 ## Nota redazionale
