@@ -5,7 +5,7 @@ Questi dati sono stabili e vanno richiamati quando contestualmente utili
 
 | Elemento | Valore |
 |---|---|
-| Denominazione completa | A.S.D. Progetto Ciclismo – Rodengo Saiano |
+| Denominazione completa | A.S.D. Progetto Ciclismo - Rodengo Saiano |
 | Forma breve | Progetto Ciclismo |
 | Autore dei contenuti sul sito | pc-rodengosaiano |
 | Sede | Rodengo Saiano (Franciacorta, provincia di Brescia) |
@@ -13,10 +13,11 @@ Questi dati sono stabili e vanno richiamati quando contestualmente utili
 | Affiliazione | Federazione Ciclistica Italiana, iscritta al CONI |
 | Territorio di attività | Franciacorta e provincia di Brescia |
 
-**Attenzione al trattino.** La denominazione ufficiale usa il trattino lungo
-(en dash) tra "Ciclismo" e "Rodengo Saiano": `A.S.D. Progetto Ciclismo – Rodengo
-Saiano`. È la forma usata sul sito e nel footer istituzionale. Non sostituirlo
-con un trattino breve.
+**Attenzione al trattino.** La denominazione usa il trattino breve tra
+"Ciclismo" e "Rodengo Saiano": `A.S.D. Progetto Ciclismo - Rodengo Saiano`. È la
+forma più comune e naturale, e mantiene il testo riconoscibile come scritto da
+una persona. Non sostituirlo con il trattino lungo (en dash), nemmeno dove lo
+usa il sito.
 
 ### Canali ufficiali
 

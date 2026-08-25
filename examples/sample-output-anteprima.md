@@ -7,7 +7,7 @@
 
 # Settembre si apre in salita: Giovanissimi a Ospitaletto, Esordienti e Allievi sul Garda
 
-L'A.S.D. Progetto Ciclismo – Rodengo Saiano apre il mese di settembre con un
+L'A.S.D. Progetto Ciclismo - Rodengo Saiano apre il mese di settembre con un
 fine settimana su due fronti. Si comincia già **sabato 5 settembre**, quando i
 nostri Giovanissimi scenderanno in strada a Ospitaletto per il 4° Trofeo
 Valletta. Dalle ore 15:30 i ragazzi si daranno battaglia su un circuito

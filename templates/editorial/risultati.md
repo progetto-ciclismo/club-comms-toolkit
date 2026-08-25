@@ -1,4 +1,4 @@
-# Risultati Cat. [Categoria] [specialità] – [Località] ([PROV])
+# Risultati Cat. [Categoria] [specialità] - [Località] ([PROV])
 
 Località: [Comune] ([PROV])
 

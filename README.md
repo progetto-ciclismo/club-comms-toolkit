@@ -3,7 +3,7 @@
 Prompt strutturati per la comunicazione di una società ciclistica giovanile:
 **contenuti social** e **redazione per il sito web**.
 
-Sviluppato per l'**[A.S.D. Progetto Ciclismo – Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/)**,
+Sviluppato per l'**[A.S.D. Progetto Ciclismo - Rodengo Saiano](https://www.asdprogettociclismorodengosaiano.it/)**,
 società affiliata FCI attiva nelle categorie Giovanissimi, Esordienti e Allievi.
 
 Il progetto è **agnostico rispetto al modello**: un unico contenuto sorgente

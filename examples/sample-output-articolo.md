@@ -5,7 +5,7 @@
 
 ---
 
-# Risultati Cat. Giovanissimi – Ospitaletto (BS)
+# Risultati Cat. Giovanissimi - Ospitaletto (BS)
 
 Località: Ospitaletto (BS)
 

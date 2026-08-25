@@ -29,17 +29,17 @@ solo una delle due parti è fuori standard.
 Formato fisso, senza variazioni creative:
 
 ```
-Risultati Cat. [Categoria] [specialità, se presente] – [Località] ([PROV])
+Risultati Cat. [Categoria] [specialità, se presente] - [Località] ([PROV])
 ```
 
-Esempi pubblicati:
+Esempi:
 
-- `Risultati Cat. Giovanissimi – Nuvolento (BS)`
-- `Risultati Cat. Allievi Pista – Crema (CR)`
-- `Risultati Cat. Giovanissimi Minisprint – Soncino (CR)`
-- `Risultati Cat. Giovanissimi Campionato Provinciale Minisprint M/F – Concesio (BS)`
+- `Risultati Cat. Giovanissimi - Nuvolento (BS)`
+- `Risultati Cat. Allievi Pista - Crema (CR)`
+- `Risultati Cat. Giovanissimi Minisprint - Soncino (CR)`
+- `Risultati Cat. Giovanissimi Campionato Provinciale Minisprint M/F - Concesio (BS)`
 
-Nota il trattino lungo prima della località e la sigla della provincia sempre
+Nota il trattino breve prima della località e la sigla della provincia sempre
 tra parentesi.
 
 ## Struttura dell'anteprima gare

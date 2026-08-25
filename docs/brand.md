@@ -4,11 +4,12 @@
 
 | Contesto | Forma |
 |---|---|
-| Prima menzione, comunicati, articoli | A.S.D. Progetto Ciclismo – Rodengo Saiano |
+| Prima menzione, comunicati, articoli | A.S.D. Progetto Ciclismo - Rodengo Saiano |
 | Menzioni successive, social | Progetto Ciclismo |
 
-Il trattino nella denominazione è **lungo** (en dash), come sul sito e nel
-footer istituzionale.
+Il trattino nella denominazione è **breve**: è la forma più comune e naturale,
+e mantiene i testi riconoscibili come scritti da una persona. Vale anche nel
+titolo formulaico dei risultati.
 
 ## Canali ufficiali
 
@@ -108,7 +109,7 @@ La classifica di società viene sempre prima dei risultati individuali.
 
 | Elemento | Forma |
 |---|---|
-| Località | Comune ([PROV]) — Coccaglio (BS), Dro – Loc. Oltra (TN) |
+| Località | Comune ([PROV]) — Coccaglio (BS), Dro - Loc. Oltra (TN) |
 | Edizione gara | Ordinale — 2° GP Code Stampi |
 | Date nel testo | In grassetto — **domenica 2 agosto** |
 | Orari | Ore 16:00 |
@@ -132,7 +133,7 @@ Due convenzioni distinte, da non confondere.
 
 **Risultati** — formato fisso, nessuna variazione creativa.
 
-`Risultati Cat. [Categoria] [specialità] – [Località] ([PROV])`
+`Risultati Cat. [Categoria] [specialità] - [Località] ([PROV])`
 
 ## Prosa o elenco nelle anteprime
 

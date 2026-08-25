@@ -20,7 +20,6 @@ le regole trattano i canali come un registro unico.
 
 | Problema | Correzione |
 |---|---|
-| Denominazione con trattino breve | Portata a trattino lungo (en dash), come sul sito |
 | Titolo articoli descritto come "breve ed efficace" | Documentate le due convenzioni reali: anteprime a due parti con i due punti, risultati con formato fisso |
 | Tipo "Risultati Cat. X – Località (PROV)" non modellato | Aggiunto come tipo di articolo con template dedicato |
 | Articolo risultati modellato come resoconto narrativo | Corretto: è un record strutturato, senza introduzione né cronaca |
@@ -74,6 +73,19 @@ La verifica ha rivelato che il tipo "articolo risultati" era stato modellato in
 modo sostanzialmente errato: era stato assimilato a un resoconto giornalistico,
 mentre nella pratica pubblicata è un record strutturato con convenzioni proprie,
 diverse da quelle social anche nell'ordine dei nomi.
+
+## Scelte redazionali che divergono dal sito
+
+**Trattino nella denominazione e nei titoli dei risultati.** Il sito e il footer
+istituzionale usano il trattino lungo (en dash): `A.S.D. Progetto Ciclismo –
+Rodengo Saiano`, `Risultati Cat. Giovanissimi – Coccaglio (BS)`. Questi prompt
+usano invece il trattino breve, sia nella denominazione sia nel titolo
+formulaico dei risultati: è la forma più comune e naturale, e mantiene i testi
+riconoscibili come scritti da una persona.
+
+È una divergenza voluta, non un disallineamento da correggere. Le citazioni di
+titoli pubblicati presenti in questo documento conservano l'en dash originale,
+perché riportano il sito così com'è.
 
 ## Nota redazionale
 

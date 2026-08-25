@@ -40,7 +40,7 @@ Ricorrenti e da usare: "i nostri colori", "i colori giallo-blu", "gialloblù",
 
 ### Nome della società
 
-Cita "A.S.D. Progetto Ciclismo – Rodengo Saiano" o "Progetto Ciclismo" almeno
+Cita "A.S.D. Progetto Ciclismo - Rodengo Saiano" o "Progetto Ciclismo" almeno
 una volta, quando rilevante. Nei post più brevi bastano "i nostri ragazzi" e
 "i nostri colori".
 
