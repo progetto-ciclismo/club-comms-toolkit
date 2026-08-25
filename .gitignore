@@ -1,0 +1,28 @@
+# Cartelle di lavoro che possono contenere dati di atleti minorenni.
+# Non devono mai entrare nel repository: vedi docs/privacy.md.
+dati/
+atleti/
+elenchi/
+risultati/
+liberatorie/
+foto/
+media/
+export/
+bozze/
+private/
+
+# Formati con cui arrivano di solito elenchi nominativi, classifiche e foto.
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+
+# Sistema e strumenti
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
