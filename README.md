@@ -18,7 +18,7 @@ qualunque API con system prompt.
 
 | Skill | Cosa fa |
 |---|---|
-| **social** | Post pre-gara, risultati, caption per reel e foto, storie Instagram, annunci di canali, saluti di fine stagione |
+| **social** | Post pre-gara, risultati, gare organizzate, vita societaria, caption, storie, annunci di canali, con versioni per Facebook, Instagram, Threads e canale WhatsApp |
 | **editorial** | Articoli per il sito, resoconti gara, comunicati societari, convocazioni, frasi SEO |
 
 Condividono un modulo di identità comune (denominazione, missione, categorie,
@@ -32,7 +32,7 @@ formato e lunghezza degli output.
 | Input | Output generato |
 |---|---|
 | Lista "prossime gare" con località, orari, categorie | Post pre-gara |
-| Lista risultati per categoria | Tre versioni: completa, sintetica, story |
+| Lista risultati per categoria | Post base + versioni Instagram, story e Threads (post o piccolo thread) dove servono |
 | Foto + richiesta di didascalia | Caption 2 frasi + alternativa breve |
 | Nomi e motivo di una convocazione | Comunicato breve |
 | Elenco atleti in uscita a fine stagione | Post di ringraziamento |
@@ -106,8 +106,8 @@ output.
 ## Allineamento con i contenuti pubblicati
 
 Le regole editoriali sono state verificate contro gli articoli effettivamente
-pubblicati sul sito. Le regole social derivano invece dal prompt in uso e non da
-un'analisi diretta dei post: vanno riviste da chi gestisce i canali. Dettagli in
+pubblicati sul sito. Le regole social sono state verificate contro tutti i post
+pubblicati sul canale WhatsApp da gennaio a novembre 2026. Dettagli in
 [docs/alignment-check.md](docs/alignment-check.md).
 
 ## Privacy

@@ -46,10 +46,13 @@ Anche la notazione dipende dal canale.
 
 ### Date
 
-- Formato esteso: `24 agosto 2025`.
-- Converti sempre le date relative in date assolute: "domani" diventa
-  "domenica 14 settembre 2025". Se il contesto è immediato, puoi mantenere
-  entrambe le forme.
+Formato esteso: `24 agosto 2025`. Il trattamento dei riferimenti relativi
+("domani", "ieri") dipende dal canale.
+
+| Contesto | Regola | Esempio |
+|---|---|---|
+| Post social | Riferimenti relativi rispetto alla pubblicazione, con la data per gli eventi più lontani | "domani mattina", "domenica 23 agosto" |
+| Sito | Sempre date assolute | "domenica 14 settembre 2025" |
 
 ### Accuratezza
 

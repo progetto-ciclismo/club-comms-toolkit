@@ -1,28 +1,12 @@
-## Variante A - prosa pura (1-2 impegni)
-
 [Gancio di apertura con punto esclamativo] [2-3 emoji]
 
-[Paragrafo: giorno, orario, categoria, località con provincia, nome della gara,
-carattere del percorso. Usa il colore geografico.]
+[Primo impegno in ordine di tempo: giorno, orario se utile, categoria, località
+con provincia o colore geografico, nome della gara. Una frase sul carattere del
+percorso o sul titolo in palio.] [emoji]
 
-[Chiusura: incoraggiamento collettivo] 💛💙[emoji]
-
-➡️ Scopri tutti i dettagli nell'articolo: [link]
-
-## Variante B - ibrida (3+ impegni o più giorni)
-
-[Gancio di apertura] [2-3 emoji]
-
-[2-3 frasi narrative che inquadrano il weekend. Questa parte deve stare nei
-primi 125 caratteri utili: e' l'unica visibile su Instagram prima del
-troncamento.]
-
-🔸 [Giorno]
-[Categoria] 👉 [Località] ([PROV]) - ore [HH:MM]
-
-🔸 [Giorno]
-[Categoria] 👉 [Località] ([PROV]) - ore [HH:MM]
-[Categoria] 👉 [Località] ([PROV]) - ore [HH:MM]
+[Solo se ci sono altri impegni: un paragrafo per giorno o per mattina e
+pomeriggio. "Domani, invece, ...", "In contemporanea, ...", "A chiudere il
+programma saranno ...".] [emoji]
 
 [Chiusura: incoraggiamento collettivo] 💛💙[emoji]
 

@@ -21,55 +21,52 @@ divertitevi! 💛💙🚀
 
 ➡️ Scopri tutti i dettagli nell'articolo: [link]
 
-## Post anteprima - variante ibrida (weekend su più fronti)
-
-Weekend a tutto gas per Progetto Ciclismo, e si parte già oggi! 🚴‍♂️🔥
-
-Quattro impegni in due giorni tra cronometro e prove in linea, con tutte e tre
-le categorie in gara. 💨
-
-🔸 Sabato 5 settembre
-Allievi 👉 Romanengo (CR) - ore 15:00 (cronometro)
-
-🔸 Domenica 6 settembre
-Giovanissimi 👉 Ospitaletto (BS) - ore 15:30
-Esordienti 👉 Padenghe sul Garda (BS) - ore 9:30
-Allievi 👉 Puegnago del Garda (BS) - ore 10:15
-
-In bocca al lupo a tutti i nostri portacolori: date il massimo e
-divertitevi! 💛💙🚀
-
-➡️ Scopri tutti i dettagli nell'articolo: [link]
-
 ## Post risultati
 
-Sabato di grande gruppo a Ospitaletto per i nostri Giovanissimi! 🌟🚴‍♂️
+### Post base (Facebook, canale WhatsApp)
 
-Chiudiamo la giornata con il 2° posto assoluto come società e il 3° nel
-Femminile: un risultato corale che ci riempie di orgoglio. 💛💙
+Bella domenica di gara per i nostri Giovanissimi a Ospitaletto! 🚴‍♂️
 
-Tre le vittorie di giornata: Marco Rossi (G1), Giulia Ferrari (G2F) e Sara
-Bianchi (G5F) salgono sul gradino più alto del podio. 🥇
+La squadra ha corso molto bene, portando a casa il 2° posto assoluto come
+società e il 3° nel Femminile. Un risultato di gruppo che ci rende fieri. 🏆💛💙
 
-Completano la giornata i piazzamenti di Davide Colombo (2° nei G1), Luca Greco
-(2° nei G5), Andrea Marchetti (3° nei G4) ed Elena Costa (3ª nelle G5F). 👏
-Bravissimi ragazzi! 🚀
+Complimenti ai vincitori di giornata: Marco Rossi (G1), Giulia Ferrari (G2F) e
+Sara Bianchi (G5F). 🥇
+
+Ottime prove anche per gli altri ragazzi a podio, con le medaglie d'argento di
+Davide Colombo (2° nei G1) e Luca Greco (2° nei G5) 🥈, seguite dal terzo posto
+di Elena Costa (3ª nelle G5F). 🥉
+
+A completare i risultati, i buoni piazzamenti di Andrea Marchetti (4° nei G4) e
+Paolo Neri (5° nei G6). 👏
+
+Bravi a tutti per l'impegno in gara! 💛💙
 
 ➡️ Tutti i risultati: [link]
 
-📸 [Credito fotografo]
+### Instagram
 
-## Versione sintetica
+Stesso testo del post base, con la riga finale sostituita da:
 
-🏆 Ottima giornata per i nostri Giovanissimi a Ospitaletto! Tre vittorie con
-Marco Rossi (G1), Giulia Ferrari (G2F) e Sara Bianchi (G5F), più il 2° posto
-assoluto di società. 💛💙
+➡️ Tutti i risultati: link nelle nostre storie
 
-## Story Instagram
+### Story Instagram
 
-3 vittorie e 2° posto di società a Ospitaletto! 🥇💛💙
+3 vittorie e 2° posto di società a Ospitaletto! 🥇💛💙 [sticker link: [link]]
+
+### Threads (circa 310 caratteri con il link)
+
+Bella domenica per i nostri Giovanissimi a Ospitaletto! 🚴‍♂️
+
+2° posto assoluto come società e 3° nel Femminile, con le vittorie di Marco
+Rossi (G1), Giulia Ferrari (G2F) e Sara Bianchi (G5F). 🥇💛💙
+
+➡️ Tutti i risultati: [link]
 
 ## Flash risultato singolo
+
+Nessuna versione per piattaforma: senza link e sotto i 500 caratteri, il
+post base vale per tutti i canali.
 
 Arriva un bel piazzamento per i nostri colori dalla gara di questa mattina a
 Piubega! 🚴‍♂️✨

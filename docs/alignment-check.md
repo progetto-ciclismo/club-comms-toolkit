@@ -1,6 +1,6 @@
 # Verifica di allineamento con i contenuti pubblicati
 
-Data della verifica: 3 agosto 2026
+Data della prima verifica: 3 agosto 2026 (aggiornata il 16 novembre 2026)
 Fonte: sezione News del sito ufficiale e articoli pubblicati tra luglio e
 agosto 2026.
 
@@ -54,16 +54,45 @@ le regole trattano i canali come un registro unico.
 1. **Frase SEO.** Non è visibile negli articoli pubblicati: la meta description
    sembra derivata automaticamente dal primo paragrafo. Chiarire se la frase SEO
    viene inserita manualmente in un campo del plugin o se la regola è superata.
-2. **Differenziazione per canale.** Il campione non consente di distinguere
-   Facebook da Instagram e Threads. Se i tre canali hanno tagli diversi
-   (lunghezza, hashtag su Instagram, taglio più breve su Threads), va modellato.
-3. **Hashtag su Instagram.** Assenti nel campione, ma potrebbero essere usati
-   solo su Instagram e non essere finiti nell'esportazione.
-4. **Credito fotografico.** Verificare quali fotografi vanno accreditati
+2. **Credito fotografico.** Verificare quali fotografi vanno accreditati
    sistematicamente e con quale formula.
-5. **Post non collegati a un articolo.** Alcuni post (flash risultato, gara
-   annullata, chiusura di eventi pluri-giornata) non hanno link al sito.
-   Confermare che sia una scelta e non una dimenticanza.
+3. **Formula del rimando alle storie su Instagram.** Il modello usa
+   `➡️ [formula]: link nelle nostre storie`; da sostituire con la formula
+   esatta in uso, se diversa.
+
+I punti su differenziazione per canale, hashtag su Instagram e post senza link
+sono stati chiariti nella verifica del 16 novembre 2026.
+
+## Verifica del 16 novembre 2026 - post social dell'anno
+
+Fonte: tutti i post pubblicati sul canale WhatsApp dall'11 gennaio all'8
+novembre 2026 (circa 100), forniti come esportazione di chat. Il materiale non
+è stato salvato nel repository: contiene nomi di atleti minorenni.
+
+Chi gestisce la comunicazione ha chiarito che i testi sono gli stessi su tutti
+i canali, con un'unica differenza: su Instagram il link viene tolto e si
+rimanda alle storie.
+
+| Problema | Correzione |
+|---|---|
+| Anteprime a elenco puntato da 3 impegni in su | Rimosse come default: tutti i post pubblicati sono in prosa, anche con quattro fronti. L'elenco resta solo su richiesta |
+| Nessuna gestione dei canali | Aggiunto il modulo `14-platforms.md`: post base per Facebook e canale WhatsApp, versione Instagram senza link, versione Threads entro 500 caratteri o piccolo thread, solo dove differiscono |
+| Ordine dei podi non specificato | Fissato per medaglia, con le formule dei post di settembre-ottobre |
+| Soglie dei piazzamenti assenti | Giovanissimi fino al 5°, Esordienti e Allievi fino al 10° |
+| Date sempre assolute | Nei social si usano oggi/domani/ieri rispetto alla pubblicazione, con la data per eventi più lontani |
+| Provincia sempre tra parentesi | Ammesso anche il colore geografico; facoltativa per le località bresciane vicine |
+| Ciclo della gara organizzata ridotto all'invito | Documentati annuncio, flash vincitori con società, post di giornata per tutte le società, rimandi a video e album |
+| Tipi di post mancanti | Aggiunti: vita societaria, rimandi a video/album/rassegna stampa, flash su più atleti, pista e ciclocross |
+| Formule di rimando fisse | Aggiunte le formule per video, album e post esterni, e le varianti brevi in uso |
+| Template reel con hashtag | Rimosso l'hashtag, in contrasto con la regola generale |
+| Tono | Confermata la regola sui superlativi: i post da settembre in poi la seguono già |
+
+Nella stessa revisione la skill social è stata riordinata: la tabella "cosa
+produrre" segue subito il ruolo, la regola sulle date è diventata una tabella
+per canale nelle regole comuni, i template sono in fondo.
+
+Refusi del campione non riprodotti dalle regole: "2° nelle G3 Femminili"
+(concordanza), "riagazzi", "tutti i dettaglio".
 
 ## Verifica del 3 agosto 2026 - articoli risultati
 

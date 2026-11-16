@@ -20,7 +20,7 @@ case "${1:-}" in
 esac
 
 SHARED=(core/shared/00-identity.md core/shared/01-shared-rules.md)
-SOCIAL=(core/social/10-role.md core/social/11-style.md core/social/12-content-rules.md core/social/13-triggers.md)
+SOCIAL=(core/social/10-role.md core/social/11-triggers.md core/social/12-style.md core/social/13-content-rules.md core/social/14-platforms.md core/social/19-templates.md)
 EDITORIAL=(core/editorial/20-role.md core/editorial/21-article-format.md core/editorial/22-seo.md core/editorial/23-content-types.md core/editorial/24-lexicon.md)
 
 WORK="$(mktemp -d)"
@@ -36,7 +36,9 @@ assemble() {
 }
 
 # Il ruolo va per primo, poi identità e regole comuni, poi le regole specifiche.
-assemble "$WORK/social.md" "${SOCIAL[0]}" "${SHARED[@]}" "${SOCIAL[@]:1}"
+# Nella skill social la tabella "cosa produrre" segue subito il ruolo: il modello
+# sa quale output gli serve prima di leggere le regole di dettaglio.
+assemble "$WORK/social.md" "${SOCIAL[0]}" "${SOCIAL[1]}" "${SHARED[@]}" "${SOCIAL[@]:2}"
 python3 scripts/inline_templates.py "$WORK/social.md"
 
 assemble "$WORK/editorial.md" "${EDITORIAL[0]}" "${SHARED[@]}" "${EDITORIAL[@]:1}"

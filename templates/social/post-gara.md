@@ -1,16 +1,19 @@
 [Gancio con il tono della giornata e la località] [2-3 emoji]
 
 [Classifica di società: assoluta e femminile. Sempre prima dei risultati
-individuali.] 💛💙
+individuali.] 🏆💛💙
 
-[Vittorie individuali raggruppate: "Grandi protagonisti di giornata i nostri tre
-vincitori: Nome Cognome (G1), Nome Cognome (G2F)..."] 🥇
+[Vittorie: "Complimenti ai vincitori di giornata: Nome Cognome (G1), Nome
+Cognome (G2F)..."] 🥇
 
-[Podi e piazzamenti: "A completare questa bellissima festa ci pensano i preziosi
-piazzamenti di Nome Cognome (2° nei G1), Nome Cognome (3ª nelle G5F)..."
-"bellissima" è l'unico superlativo del post: il tetto resta 1-2.] 👏
+[Podi: "Ottime prove anche per gli altri ragazzi a podio, con le medaglie
+d'argento di Nome Cognome (2° nei G1)..." 🥈 "seguite dai bei terzi posti di
+Nome Cognome (3ª nelle G5F)..."] 🥉
 
-[Chiusura con complimento collettivo] 🚀
+[Piazzamenti fino al 5°: "A completare i risultati, i buoni piazzamenti di Nome
+Cognome (4° nei G3)..."] 👏
+
+[Chiusura con complimento collettivo] 💛💙
 
 ➡️ Tutti i risultati: [link]
 
