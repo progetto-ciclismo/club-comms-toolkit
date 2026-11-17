@@ -1,0 +1,65 @@
+{
+  "skill_name": "editorial-progetto-ciclismo",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Articolo risultati Giovanissimi a Castelcovati (BS). G1: Ferri Tommaso 1°, Bassi Nicola 3°. G3 femminile: Pellegrini Anna 1ª. G4: Riva Mattia 2°. Società 1ª assoluta e 2ª nel femminile.",
+      "expected_output": "Articolo risultati con titolo formulaico, una riga per sottocategoria, riga di classifica, e scheda SEO senza frase: slug con l'anno, categorie Risultati e Risultati > Giovanissimi, testo alternativo senza nomi, link interno come segnaposto.",
+      "files": [],
+      "expectations": [
+        "Il titolo è 'Risultati Cat. Giovanissimi - Castelcovati (BS)'",
+        "I nomi sono in ordine Cognome Nome e la sottocategoria femminile è 'G3 Fem.'",
+        "Non c'è introduzione né cronaca",
+        "Lo slug è in minuscolo con trattini e finisce con l'anno, senza suffissi come -2",
+        "Le categorie sono 'Risultati' e 'Risultati > Giovanissimi'",
+        "Il testo alternativo descrive la scena senza nomi di atleti",
+        "Il link interno è un segnaposto, non un URL inventato",
+        "scripts/verifica_testo.py sull'output non segnala errori"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Anteprima weekend: sabato 12 settembre Giovanissimi a Rovato (BS), partenza 15:00, 64 atleti; domenica 13 Esordienti 1° e 2° anno a Desenzano (BS), 32 km, partenza 9:30; Allievi a Volta Mantovana (MN), 78 km, partenza 14:00.",
+      "expected_output": "Titolo a due parti con i due punti, introduzione con date in grassetto, schede per giorno e categoria, scheda SEO completa.",
+      "files": [],
+      "expectations": [
+        "Il titolo ha due parti separate dai due punti",
+        "Le date sono in grassetto nell'introduzione",
+        "Le schede usano giorno e categoria come intestazioni",
+        "La frase SEO è una sola riga entro 191 caratteri e contiene 'Progetto Ciclismo'",
+        "Lo slug ha 4-8 parole con le keyword, senza articoli e preposizioni",
+        "Le categorie sono Giovanissimi, Esordienti e Allievi, senza 'In Evidenza'",
+        "scripts/verifica_testo.py sull'output non segnala errori"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Scrivi anche il post social per rilanciare l'articolo dei risultati di Castelcovati: https://www.example.org/risultati-cat-giovanissimi-castelcovati-bs-2026",
+      "expected_output": "Tre lunghezze con il canale nell'intestazione: lunga per Facebook e canale WhatsApp con link, media per Instagram senza link, corta per Threads e story entro 500 caratteri; blocco Hashtag consigliati separato.",
+      "files": [],
+      "expectations": [
+        "Ci sono tre lunghezze, ognuna con il canale indicato nell'intestazione",
+        "La lunga contiene il link nell'ultima riga",
+        "La media non contiene il link e rimanda alle storie",
+        "La corta sta entro 500 caratteri link compreso",
+        "I nomi sono in ordine Nome Cognome e le sigle compatte (G3F)",
+        "Nessuna delle tre lunghezze contiene hashtag; il blocco 'Hashtag consigliati' è separato",
+        "Non c'è nessuna versione per X",
+        "scripts/verifica_testo.py sull'output non segnala errori"
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "Comunicato: l'assemblea del 14 novembre ha eletto il nuovo direttivo. Presidente Marco Fittizio, vicepresidente Laura Esempio, consiglieri Paolo Prova e Giorgio Demo. Grazie al direttivo uscente guidato da Sergio Campione.",
+      "expected_output": "Comunicato istituzionale con ringraziamento al direttivo uscente ed elenco dei nuovi membri con i ruoli, scheda SEO con categoria News.",
+      "files": [],
+      "expectations": [
+        "Il registro è istituzionale, con nomi completi e ruoli",
+        "Il ringraziamento al direttivo uscente precede l'elenco dei nuovi membri",
+        "La categoria proposta è News",
+        "La denominazione usa il trattino breve: 'A.S.D. Progetto Ciclismo - Rodengo Saiano'",
+        "scripts/verifica_testo.py sull'output non segnala errori"
+      ]
+    }
+  ]
+}

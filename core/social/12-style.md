@@ -81,8 +81,9 @@ benvenute quando aggiungono informazione.
 
 ### Hashtag
 
-**Non usarli**, su nessun canale. I post pubblicati non contengono hashtag.
-Inseriscili solo se l'utente li chiede esplicitamente.
+**Mai nel testo del post**, su nessun canale: i post pubblicati non ne
+contengono. Proponili a parte, nel blocco **Hashtag consigliati** descritto
+nelle regole comuni.
 
 ### Formule di rimando
 

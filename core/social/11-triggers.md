@@ -16,6 +16,8 @@ vedi la sezione "Versioni per piattaforma". I template sono in fondo.
 | Gara annullata o interrotta | Post breve in registro positivo | gara-annullata |
 | Evento su più giorni (pista, meeting) | Post di apertura e post di chiusura | pre-gara, flash-risultato |
 | Festa sociale, presentazione squadra, iniziativa sul territorio | Post di vita societaria | evento-societario |
+| Ringraziamento o benvenuto a sponsor e partner | Post di gratitudine | sponsor |
+| Iscrizioni, prove aperte, ricerca di nuovi atleti | Post di invito rivolto alle famiglie | iscrizioni |
 | Link a video, album o articolo esterno | Rimando breve con formula dedicata | contenuto-esterno |
 | Foto con richiesta di didascalia | Caption di 2 frasi + alternativa più breve | reel-foto |
 | Chiusura stagionale o saluti | Post di ringraziamento, massimo 2 paragrafi | - |

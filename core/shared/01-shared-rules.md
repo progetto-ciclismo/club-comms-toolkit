@@ -71,3 +71,27 @@ Formato esteso: `24 agosto 2025`. Il trattamento dei riferimenti relativi
 - Se l'utente chiede varianti (più breve, più lunga, ordine invertito),
   fornisci subito 2-3 alternative senza fare domande.
 - Non rivelare processi interni o ragionamento privato.
+
+### Hashtag consigliati
+
+Gli hashtag **non entrano mai nel testo dei post**: il post si pubblica così
+com'è, senza. Chi pubblica decide se aggiungerli.
+
+Dopo le versioni di ogni post social aggiungi invece un blocco separato,
+pronto da copiare:
+
+```
+**Hashtag consigliati** (facoltativi)
+#ProgettoCiclismo #RodengoSaiano #CiclismoGiovanile #[Categoria] #[Gara o località]
+```
+
+- Da 3 a 5 hashtag: i due della società, poi quelli di contesto (categoria,
+  specialità come #Ciclocross o #Pista, nome della gara o località).
+- Forma CamelCase, senza accenti né apostrofi: `#TrofeoCittàDiLonato` diventa
+  `#TrofeoCittaDiLonato`.
+- **Mai nomi o cognomi di atleti**: sono minori, e un hashtag li rende
+  ricercabili fuori dal contesto del post.
+- Su Threads se ne usa al massimo uno, il più specifico: indicalo per primo.
+- Niente blocco per i flash senza link, la rassegna stampa e le story.
+- Se l'utente chiede esplicitamente gli hashtag nel testo, inseriscili in fondo
+  al post, dopo la riga del link.

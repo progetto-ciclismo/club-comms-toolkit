@@ -14,3 +14,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Adapter allineati al sorgente
         run: ./build.sh --check
+      - name: Esempi conformi alle regole meccaniche
+        run: python3 scripts/verifica_testo.py examples/sample-output-*.md

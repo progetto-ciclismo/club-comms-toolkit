@@ -15,3 +15,13 @@ Classifica: [pos]° Classificata assoluta e [pos]° Classificata nel Femminile.
 [immagine]
 
 *📸 [Credito fotografico]*
+
+---
+
+**Slug:** [ ]
+
+**Categorie:** Risultati, Risultati > [Categoria]
+
+**Testo alternativo immagine:** [ ]
+
+**Link interno:** [ ]

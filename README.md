@@ -32,19 +32,25 @@ formato e lunghezza degli output.
 | Input | Output generato |
 |---|---|
 | Lista "prossime gare" con località, orari, categorie | Post pre-gara |
-| Lista risultati per categoria | Post base + versioni Instagram, story e Threads (post o piccolo thread) dove servono |
+| Lista risultati per categoria | Post base + versioni Instagram, story e Threads (post o piccolo thread) dove servono + hashtag consigliati a parte |
 | Foto + richiesta di didascalia | Caption 2 frasi + alternativa breve |
 | Nomi e motivo di una convocazione | Comunicato breve |
 | Elenco atleti in uscita a fine stagione | Post di ringraziamento |
+| Elenco sponsor e partner | Post di ringraziamento o di benvenuto |
+| Date e modalità di iscrizioni o prove aperte | Post di invito per le famiglie |
 
 ### Skill editorial
 
 | Input | Output generato |
 |---|---|
-| Dati gara (denominazione, località, distanza, partenza) | Annuncio gara + frase SEO |
-| Risultati per categoria | Resoconto con cronaca + frase SEO |
+| Dati gara (denominazione, località, distanza, partenza) | Annuncio gara + scheda SEO |
+| Risultati per categoria | Articolo risultati o resoconto con cronaca + scheda SEO |
+| Link a un articolo pubblicato | Post social in tre lunghezze: Facebook e WhatsApp, Instagram, Threads e story |
 | Verbale o esito di assemblea | Comunicato societario |
 | Convocazione FCI | Comunicato breve |
+
+La scheda SEO comprende frase SEO, slug, categorie del sito, testo alternativo
+dell'immagine e link interno.
 
 Un esempio completo è in
 [examples/sample-input-risultati.md](examples/sample-input-risultati.md), con gli
@@ -88,7 +94,8 @@ templates/          Template di output a struttura fissa
 adapters/           Versioni generate per ciascuna piattaforma
 examples/           Input e output di esempio (dati fittizi)
 docs/               Privacy, linee guida di identità
-scripts/            Helper per il build
+scripts/            Helper per il build e verifica_testo.py per le regole meccaniche
+evals/              Casi di prova delle skill (dati fittizi)
 build.sh            Assembla gli adapter da core/ e templates/
 ```
 
@@ -102,6 +109,9 @@ generati:
 Il modulo `core/shared/` finisce in entrambe le skill: una modifica all'identità
 societaria o alle regole sui minori si propaga automaticamente a tutti gli
 output.
+
+Per controllare un testo prodotto (lunghezze, hashtag, trattini, slug) e per
+i casi di prova vedi [evals/README.md](evals/README.md).
 
 ## Allineamento con i contenuti pubblicati
 

@@ -20,7 +20,8 @@ dove differiscono** dal post base: non ripetere testi identici.
   l'indicazione `[sticker link: <link>]`.
 - I primi 125 caratteri circa sono gli unici visibili prima di "altro": la
   riga di apertura deve dire dove e cosa da sola.
-- Nessun hashtag, come negli altri canali.
+- Nessun hashtag nel testo, come negli altri canali: vanno nel blocco
+  **Hashtag consigliati**.
 - Se il post base non ha link (flash, gara annullata), la versione Instagram
   coincide con il post base: non produrla.
 - I contenuti che sono solo un link (rassegna stampa) non vanno su Instagram:
@@ -52,8 +53,10 @@ Presenta le versioni in quest'ordine, ognuna con un'intestazione breve:
 2. **Instagram**, solo se c'è un link da togliere
 3. **Story Instagram**, solo se c'è un link da portare o se l'input la prevede
 4. **Threads**, solo se il post base supera i 500 caratteri: un post condensato o un piccolo thread
+5. **Hashtag consigliati**, facoltativi, in un blocco separato
 
 Per Threads indica tra parentesi il conteggio dei caratteri di ogni post; nel
 thread numera i post (1/2, 2/2) nell'intestazione, non nel testo.
 
-Se l'utente chiede un solo canale, produci solo quella versione.
+Se l'utente chiede un solo canale, produci solo quella versione, più il blocco
+degli hashtag consigliati.

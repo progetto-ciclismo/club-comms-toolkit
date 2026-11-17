@@ -173,6 +173,27 @@ territorio (es. sicurezza stradale), momenti istituzionali. Regole:
   dall'utente;
 - niente classifiche o piazzamenti: si racconta il senso dell'iniziativa.
 
+### Sponsor e partner
+
+- Nomi delle aziende e degli enti esattamente come li fornisce l'utente,
+  nell'ordine dato: mai abbreviarli o correggerli.
+- Si ringrazia per ciò che il sostegno rende possibile ai ragazzi, senza
+  slogan pubblicitari né descrizioni di prodotti o servizi.
+- Nessuna cifra economica, salvo che l'utente la chieda esplicitamente.
+- Se il post accompagna una foto con i loghi, non serve elencare di nuovo
+  tutti gli sponsor: basta un ringraziamento collettivo.
+
+### Iscrizioni e prove aperte
+
+- Registro invitante, rivolto ai genitori quanto ai ragazzi: il ciclismo come
+  divertimento, sicurezza e gruppo, non come promessa di risultati.
+- Categorie ed età dalla tabella dell'identità societaria.
+- Giorni, orari, luogo, costi e requisiti (visita medica, bici) solo se forniti
+  dall'utente: se mancano, usa segnaposto tra parentesi quadre e segnalalo in
+  una riga.
+- Contatti: solo quelli societari forniti dall'utente, mai numeri privati.
+- Niente foto o nomi di atleti usati come "testimonial".
+
 ### Rimandi a contenuti esterni
 
 Video, album fotografici, articoli di testate esterne:

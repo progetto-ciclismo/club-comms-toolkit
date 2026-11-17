@@ -9,3 +9,11 @@ motivazione della convocazione.]
 
 **Frase SEO** (max 191 caratteri):
 [ ]
+
+**Slug:** [ ]
+
+**Categorie:** [ ]
+
+**Testo alternativo immagine:** [ ]
+
+**Link interno:** [ ]

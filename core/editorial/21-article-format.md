@@ -171,7 +171,7 @@ gara più la migliore prestazione femminile.
 | Articolo con cronaca | Fino a 400-700 parole |
 | Comunicato stampa | 200-350 parole, più formale e compatto |
 | Versione sintetica | 2-4 frasi |
-| Versione "più breve" richiesta | Titolo + 1 paragrafo di introduzione + frase SEO |
+| Versione "più breve" richiesta | Titolo + 1 paragrafo di introduzione + scheda SEO |
 
 ## Template
 

@@ -63,6 +63,10 @@ Rossi (G1), Giulia Ferrari (G2F) e Sara Bianchi (G5F). 🥇💛💙
 
 ➡️ Tutti i risultati: [link]
 
+### Hashtag consigliati (facoltativi)
+
+#Giovanissimi #ProgettoCiclismo #RodengoSaiano #CiclismoGiovanile #Ospitaletto
+
 ## Flash risultato singolo
 
 Nessuna versione per piattaforma: senza link e sotto i 500 caratteri, il
@@ -72,7 +76,7 @@ Arriva un bel piazzamento per i nostri colori dalla gara di questa mattina a
 Piubega! 🚴‍♂️✨
 
 Nel 4° Trofeo Fittizio, Simone Barbieri entra nella top 10 conquistando una
-meritata 9° posizione tra gli Esordienti del 1° anno. 💛💙
+meritata 9ª posizione tra gli Esordienti del 1° anno. 💛💙
 
 ## Gara annullata
 

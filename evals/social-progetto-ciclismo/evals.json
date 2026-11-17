@@ -1,0 +1,84 @@
+{
+  "skill_name": "social-progetto-ciclismo",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Risultati di domenica a Castelcovati (BS), Giovanissimi. Società 1ª assoluta e 2ª nel femminile. G1: Tommaso Ferri 1°, Nicola Bassi 3°. G3F: Anna Pellegrini 1ª. G4: Mattia Riva 2°. G5F: Chiara Gatti 3ª. G6: Filippo Sala 4°. Link: https://www.example.org/risultati-cat-giovanissimi-castelcovati-bs-2026",
+      "expected_output": "Post base in prosa con apertura, risultato di società, vittorie, podi e piazzamenti, chiusura con 💛💙 e riga del link; versione Instagram con rimando alle storie; story con sticker link; versione Threads entro 500 caratteri; blocco Hashtag consigliati separato.",
+      "files": [],
+      "expectations": [
+        "Il post base non contiene hashtag",
+        "Dopo le versioni c'è un blocco 'Hashtag consigliati' con 3-5 hashtag, nessuno con nomi di atleti",
+        "Il risultato di società (1ª assoluta, 2ª nel femminile) viene prima delle vittorie individuali",
+        "Le atlete hanno l'ordinale femminile: Anna Pellegrini 1ª, Chiara Gatti (3ª nelle G5F)",
+        "La versione Instagram non contiene il link e chiude con 'link nelle nostre storie'",
+        "La versione Threads, se presente, sta entro 500 caratteri link compreso",
+        "Il post si chiude con un complimento collettivo e i cuori 💛💙",
+        "Non c'è nessuna versione per X",
+        "scripts/verifica_testo.py sull'output non segnala errori"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Prossime gare: sabato 12 settembre Giovanissimi a Rovato (BS) ore 15:00; domenica 13 Esordienti a Desenzano (BS) ore 9:30 e Allievi a Volta Mantovana (MN), 78 km con due giri del circuito collinare. Articolo: https://www.example.org/anteprima-weekend-12-13-settembre",
+      "expected_output": "Post anteprima in prosa, un paragrafo per giorno, senza elenco puntato, con formula 'Scopri tutti i dettagli nell'articolo'.",
+      "files": [],
+      "expectations": [
+        "Il post è in prosa, senza elenco puntato",
+        "Gli impegni seguono l'ordine cronologico, sabato prima di domenica",
+        "La riga del link usa la formula '➡️ Scopri tutti i dettagli nell'articolo: [link]'",
+        "Il post base non contiene hashtag",
+        "scripts/verifica_testo.py sull'output non segnala errori"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Flash: stamattina a Montichiari, Elisa Moretti 2ª tra le Esordienti 2° anno nella prova di inseguimento su pista.",
+      "expected_output": "Flash di 2-3 frasi, senza link, senza versioni per piattaforma e senza blocco hashtag.",
+      "files": [],
+      "expectations": [
+        "Il testo è un flash di 2-3 frasi senza link",
+        "L'ordinale è al femminile (2ª)",
+        "Non vengono prodotte versioni Instagram o Threads",
+        "Non c'è il blocco 'Hashtag consigliati'"
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "Gara dei Giovanissimi a Paderno Franciacorta annullata per pioggia prima della partenza.",
+      "expected_output": "Post breve in registro positivo, con emoji di contesto 🌧️, senza polemiche.",
+      "files": [],
+      "expectations": [
+        "Il registro è positivo e non polemico",
+        "Il post è breve, 1-2 paragrafi",
+        "Il post non contiene hashtag"
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "Post per ringraziare gli sponsor della stagione 2026: Officine Fittizie S.r.l., Panificio Esempio e Comune di Rodengo Saiano. Diamo il benvenuto a un nuovo partner, Studio Prova.",
+      "expected_output": "Post di gratitudine con i nomi esatti nell'ordine fornito, benvenuto al nuovo partner, nessuno slogan pubblicitario, chiusura collettiva.",
+      "files": [],
+      "expectations": [
+        "Gli sponsor compaiono con il nome esatto e nell'ordine fornito",
+        "Studio Prova riceve un benvenuto distinto dal ringraziamento",
+        "Non ci sono slogan pubblicitari né descrizioni di prodotti",
+        "Non ci sono cifre economiche",
+        "Il post non contiene hashtag"
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "Post per le iscrizioni alla nuova stagione: prove gratuite per bambini dai 6 anni il sabato pomeriggio a dicembre.",
+      "expected_output": "Post di invito rivolto alle famiglie, con le età dalla tabella dell'identità, segnaposto per orario, luogo e contatti mancanti e una riga che li segnala.",
+      "files": [],
+      "expectations": [
+        "Il post si rivolge ai genitori oltre che ai ragazzi",
+        "Orario, luogo e contatti mancanti sono segnaposto tra parentesi quadre, non inventati",
+        "Una riga fuori dal post segnala i dati mancanti",
+        "Non compaiono nomi di atleti come testimonial",
+        "Il post non contiene hashtag"
+      ]
+    }
+  ]
+}

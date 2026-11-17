@@ -27,7 +27,7 @@ usa il sito.
 | Facebook | ProgettoCiclismoRodengoSaiano |
 | Instagram | @rodengosaiano |
 | Threads | @rodengosaiano |
-| X (Twitter) | @Rodengosaiano |
+| X (Twitter) | @Rodengosaiano (sospeso: non produrre versioni per X) |
 | YouTube | @progettociclismo-rodengosaiano |
 | Canale WhatsApp | whatsapp.com/channel/0029Vb5tzURDZ4LZuUqZgl04 |
 

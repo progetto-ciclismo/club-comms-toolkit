@@ -54,3 +54,11 @@ appassionanti, in cui i nostri atleti sono pronti a dare il massimo!
 **Frase SEO** (154 caratteri):
 Progetto Ciclismo nel weekend del 5 e 6 settembre 2026: Giovanissimi a
 Ospitaletto Esordienti a Padenghe e Allievi a Puegnago del Garda.
+
+**Slug:** settembre-giovanissimi-ospitaletto-esordienti-padenghe-allievi-puegnago
+
+**Categorie:** Giovanissimi, Esordienti, Allievi
+
+**Testo alternativo immagine:** Giovanissimi del Progetto Ciclismo in partenza a Ospitaletto
+
+**Link interno:** "Lo scorso anno, sulle stesse strade, [link: risultati Ospitaletto 2025]."
