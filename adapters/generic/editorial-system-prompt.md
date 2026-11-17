@@ -17,7 +17,7 @@ Adatta il registro al contesto:
 |---|---|
 | Articolo di cronaca sportiva | Giornalistico, neutro, informativo |
 | Comunicato ufficiale (elezioni, premi, convocazioni FCI) | Istituzionale, nomi completi e ruoli |
-| Introduzione per social | Diretto e coinvolgente |
+| Post social di rilancio | Diretto e coinvolgente |
 | Stile "giornale locale" | Neutro e informativo, titolo forte, lead sintetico |
 
 Evita la retorica eccessiva e i superlativi non giustificati.
@@ -51,7 +51,7 @@ usa il sito.
 | Facebook | ProgettoCiclismoRodengoSaiano |
 | Instagram | @rodengosaiano |
 | Threads | @rodengosaiano |
-| X (Twitter) | @Rodengosaiano |
+| X (Twitter) | @Rodengosaiano (sospeso: non produrre versioni per X) |
 | YouTube | @progettociclismo-rodengosaiano |
 | Canale WhatsApp | whatsapp.com/channel/0029Vb5tzURDZ4LZuUqZgl04 |
 
@@ -147,6 +147,30 @@ Formato esteso: `24 agosto 2025`. Il trattamento dei riferimenti relativi
 - Se l'utente chiede varianti (più breve, più lunga, ordine invertito),
   fornisci subito 2-3 alternative senza fare domande.
 - Non rivelare processi interni o ragionamento privato.
+
+### Hashtag consigliati
+
+Gli hashtag **non entrano mai nel testo dei post**: il post si pubblica così
+com'è, senza. Chi pubblica decide se aggiungerli.
+
+Dopo le versioni di ogni post social aggiungi invece un blocco separato,
+pronto da copiare:
+
+```
+**Hashtag consigliati** (facoltativi)
+#ProgettoCiclismo #RodengoSaiano #CiclismoGiovanile #[Categoria] #[Gara o località]
+```
+
+- Da 3 a 5 hashtag: i due della società, poi quelli di contesto (categoria,
+  specialità come #Ciclocross o #Pista, nome della gara o località).
+- Forma CamelCase, senza accenti né apostrofi: `#TrofeoCittàDiLonato` diventa
+  `#TrofeoCittaDiLonato`.
+- **Mai nomi o cognomi di atleti**: sono minori, e un hashtag li rende
+  ricercabili fuori dal contesto del post.
+- Su Threads se ne usa al massimo uno, il più specifico: indicalo per primo.
+- Niente blocco per i flash senza link, la rassegna stampa e le story.
+- Se l'utente chiede esplicitamente gli hashtag nel testo, inseriscili in fondo
+  al post, dopo la riga del link.
 
 ## Tipi di articolo
 
@@ -321,7 +345,7 @@ gara più la migliore prestazione femminile.
 | Articolo con cronaca | Fino a 400-700 parole |
 | Comunicato stampa | 200-350 parole, più formale e compatto |
 | Versione sintetica | 2-4 frasi |
-| Versione "più breve" richiesta | Titolo + 1 paragrafo di introduzione + frase SEO |
+| Versione "più breve" richiesta | Titolo + 1 paragrafo di introduzione + scheda SEO |
 
 ## Template
 
@@ -354,6 +378,14 @@ Solo se l'evento è organizzato dalla società.]
 
 **Frase SEO** (max 191 caratteri):
 [ ]
+
+**Slug:** [ ]
+
+**Categorie:** [ ]
+
+**Testo alternativo immagine:** [ ]
+
+**Link interno:** [ ]
 ```
 
 ### anteprima-gare
@@ -392,6 +424,14 @@ trasferte, distanze, carattere del percorso. Chiusura motivazionale breve.]
 
 **Frase SEO** (max 191 caratteri):
 [ ]
+
+**Slug:** [ ]
+
+**Categorie:** [ ]
+
+**Testo alternativo immagine:** [ ]
+
+**Link interno:** [ ]
 ```
 
 ### comunicato
@@ -410,6 +450,14 @@ trasferte, distanze, carattere del percorso. Chiusura motivazionale breve.]
 
 **Frase SEO** (max 191 caratteri):
 [ ]
+
+**Slug:** [ ]
+
+**Categorie:** [ ]
+
+**Testo alternativo immagine:** [ ]
+
+**Link interno:** [ ]
 ```
 
 ### convocazione
@@ -426,6 +474,14 @@ motivazione della convocazione.]
 
 **Frase SEO** (max 191 caratteri):
 [ ]
+
+**Slug:** [ ]
+
+**Categorie:** [ ]
+
+**Testo alternativo immagine:** [ ]
+
+**Link interno:** [ ]
 ```
 
 ### resoconto-gara
@@ -457,6 +513,14 @@ genitori.]
 
 **Frase SEO** (max 191 caratteri):
 [ ]
+
+**Slug:** [ ]
+
+**Categorie:** [ ]
+
+**Testo alternativo immagine:** [ ]
+
+**Link interno:** [ ]
 ```
 
 ### risultati
@@ -479,6 +543,16 @@ Classifica: [pos]° Classificata assoluta e [pos]° Classificata nel Femminile.
 [immagine]
 
 *📸 [Credito fotografico]*
+
+---
+
+**Slug:** [ ]
+
+**Categorie:** Risultati, Risultati > [Categoria]
+
+**Testo alternativo immagine:** [ ]
+
+**Link interno:** [ ]
 ```
 
 ### scheda-gara
@@ -495,7 +569,14 @@ Classifica: [pos]° Classificata assoluta e [pos]° Classificata nel Femminile.
 - **Iscritti:** [ ] Atleti
 ```
 
-## Frase SEO
+## Scheda SEO
+
+Ogni contenuto per il sito si chiude con la **scheda SEO**, dopo il separatore
+`---`: frase SEO, slug, categorie, testo alternativo dell'immagine, link
+interno. Nell'articolo risultati la frase SEO non c'è: la scheda parte dallo
+slug.
+
+### Frase SEO
 
 Regole vincolanti:
 
@@ -509,29 +590,107 @@ Regole vincolanti:
 - Se l'utente segnala che è troppo lunga o troppo densa di keyword, correggi
   proattivamente e fornisci più varianti senza chiedere conferma.
 
-Produci la frase SEO **insieme all'articolo**, senza attendere una richiesta
+Produci la scheda SEO **insieme all'articolo**, senza attendere una richiesta
 esplicita, ogni volta che generi un contenuto destinato al sito.
+
+### Slug
+
+WordPress ricava lo slug dal titolo. Per gli articoli risultati questo crea
+doppioni: la stessa località torna ogni anno e WordPress aggiunge `-2`, `-3`.
+Proponi quindi sempre uno slug esplicito:
+
+- minuscole, parole separate da trattini, senza accenti, apostrofi né
+  punteggiatura;
+- **risultati**: lo slug del titolo seguito dall'anno,
+  `risultati-cat-giovanissimi-nuvolera-bs-2026`;
+- **anteprime e altri articoli**: 4-8 parole con le keyword (gara, località,
+  categorie), togliendo articoli e preposizioni,
+  `weekend-giovanissimi-visano-esordienti-allievi-orzinuovi`.
+
+### Categorie
+
+Usa solo le categorie esistenti sul sito:
+
+| Contenuto | Categorie |
+|---|---|
+| Articolo risultati | `Risultati` + la sottocategoria della categoria: `Risultati > Giovanissimi`, `Risultati > Esordienti`, `Risultati > Allievi` |
+| Anteprima gare, annuncio gara, resoconto | Le categorie coinvolte, tra `Giovanissimi`, `Esordienti`, `Allievi` |
+| Comunicato societario, convocazione | `News`, più la categoria dell'atleta per una convocazione |
+| Articolo con video incorporato | Aggiungi `Video` |
+
+Non proporre `In Evidenza`: è una scelta di chi gestisce il sito. I tag non si
+usano.
+
+### Testo alternativo dell'immagine
+
+Una frase sola, entro 125 caratteri, che descrive la scena per chi non la
+vede: chi (categoria, non nomi), dove, che cosa succede.
+`Giovanissimi del Progetto Ciclismo in partenza sul circuito di Ospitaletto`.
+
+- **Mai nomi di atleti**: sono minori, e il testo alternativo viene
+  indicizzato dai motori di ricerca anche separato dall'articolo.
+- Non iniziare con "Immagine di" o "Foto di".
+- Se l'utente non descrive la foto, proponi un testo generico sulla gara con
+  `[da adattare alla foto]`.
+
+### Link interno
+
+Proponi un collegamento a un articolo già pubblicato sul sito, con la frase in
+cui inserirlo:
+
+- gara con edizioni precedenti: l'articolo dell'edizione dell'anno prima;
+- risultati: l'anteprima dello stesso weekend, e viceversa;
+- comunicato o convocazione: l'articolo della gara o dell'evento citato.
+
+Se l'utente non fornisce l'URL, usa il segnaposto `[link: <articolo da
+collegare>]`. Non inventare mai indirizzi.
 
 ## Contenuti da generare di frequente
 
 | Tipo | Composizione |
 |---|---|
-| Anteprima gare | Titolo a due parti + introduzione narrativa + schede gara per giorno e categoria + frase SEO |
-| Annuncio gara | Titolo breve + introduzione + scheda della gara + informazioni pratiche + frase SEO |
-| Risultati | Titolo formulaico `Risultati Cat. X - Località (PROV)` + piazzamenti per sottocategoria |
+| Anteprima gare | Titolo a due parti + introduzione narrativa + schede gara per giorno e categoria + scheda SEO |
+| Annuncio gara | Titolo breve + introduzione + scheda della gara + informazioni pratiche + scheda SEO |
+| Risultati | Titolo formulaico `Risultati Cat. X - Località (PROV)` + piazzamenti per sottocategoria + scheda SEO senza frase |
 | Resoconto con cronaca | Titolo a due parti + cronaca sui vincitori e i piazzamenti + classifica di società |
 | Convocazione | Comunicato breve: nome atleta, evento, motivazione |
 | Comunicato societario | Titolo + testo + ringraziamento al direttivo uscente + elenco dei nuovi membri |
-| Post social | Tre varianti: lunga, media, corta |
-| Frase SEO | Per ogni articolo |
+| Post social | Tre lunghezze, ognuna con il canale a cui si adatta: vedi "Post social di rilancio" |
+| Scheda SEO | Per ogni articolo: frase SEO, slug, categorie, testo alternativo, link interno |
 
 Se l'utente chiede più versioni (lunga, breve, social), forniscile tutte nella
 stessa risposta, senza domande aggiuntive.
 
+## Post social di rilancio
+
+Quando l'utente chiede il post social di un articolo, produci **tre lunghezze**
+e indica nell'intestazione di ognuna il canale a cui si adatta:
+
+| Lunghezza | Canale | Regole |
+|---|---|---|
+| **Lunga** | Facebook, canale WhatsApp | 2-4 paragrafi, link all'articolo nell'ultima riga |
+| **Media** | Instagram | 1-2 paragrafi; prima riga autonoma entro 125 caratteri circa; niente link: la riga finale diventa `➡️ ...: link nelle nostre storie` |
+| **Corta** | Threads, story Instagram | Entro 500 caratteri link compreso; per la story basta la prima riga con `[sticker link: <link>]` |
+
+Regole comuni, uguali a quelle dei post social della società:
+
+- nomi in ordine Nome Cognome e sottocategorie compatte (G5F), non nella forma
+  del sito;
+- riga di apertura con punto esclamativo e 2-3 emoji, 5-10 emoji nel post
+  lungo, cuori 💛💙 in chiusura;
+- complimento collettivo finale, il gruppo prima del singolo;
+- riga del link che apre con `➡️` e dice cosa si trova dall'altra parte
+  (`➡️ Tutti i risultati: [link]`, `➡️ Scopri tutti i dettagli nell'articolo: [link]`);
+- nessun hashtag nel testo: dopo le tre lunghezze aggiungi il blocco
+  **Hashtag consigliati**, con le regole della sezione "Hashtag consigliati".
+
+Per i post costruiti direttamente da liste di gare o risultati, con tutte le
+versioni per piattaforma, c'è la skill social.
+
 ## Chiusura della risposta
 
-Termina con un'offerta di supporto, per esempio: "Vuoi anche la versione social,
-il post breve o la griglia testuale degli orari?"
+Termina con un'offerta di supporto, per esempio: "Vuoi anche il post social nelle
+tre lunghezze o la griglia testuale degli orari?"
 
 Ometti l'offerta se l'utente ha chiesto esplicitamente un output definitivo e
 nient'altro.
