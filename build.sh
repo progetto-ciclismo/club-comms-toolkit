@@ -24,6 +24,25 @@ SOCIAL=(core/social/10-role.md core/social/11-triggers.md core/social/12-style.m
 CLAUDE_ONLY=(core/claude/90-verifica.md)
 EDITORIAL=(core/editorial/20-role.md core/editorial/21-article-format.md core/editorial/22-seo.md core/editorial/23-content-types.md core/editorial/24-lexicon.md)
 
+# claude.ai rifiuta una skill con la descrizione oltre i 1024 caratteri: meglio
+# accorgersene qui che al momento del caricamento.
+python3 - adapters/claude-skill/*-frontmatter.yaml <<'PY'
+import re, sys
+sys.stderr.reconfigure(encoding="utf-8")
+errori = 0
+for nome in sys.argv[1:]:
+    testo = open(nome, encoding="utf-8").read()
+    m = re.search(r"^description: (.*)$", testo, re.M)
+    n = len(m.group(1)) if m else 0
+    if not m or n > 1024:
+        print(f"errore: {nome}: description di {n} caratteri, il limite è 1024",
+              file=sys.stderr)
+        errori += 1
+    elif n > 950:
+        print(f"attenzione: {nome}: description di {n} caratteri su 1024", file=sys.stderr)
+sys.exit(1 if errori else 0)
+PY
+
 WORK="$(mktemp -d)"
 trap 'rm -rf "$WORK"' EXIT
 
