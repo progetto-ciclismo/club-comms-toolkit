@@ -20,6 +20,7 @@ rigenera gli adapter con `./build.sh`.
 | Date relative o assolute | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Date |
 | Hashtag consigliati | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Hashtag consigliati |
 | Tono social, superlativi | [core/social/12-style.md](../core/social/12-style.md) | Tono |
+| "Weekend a tutto gas", "campioncini", "siamo fieri di voi" | [core/social/12-style.md](../core/social/12-style.md) | Espressioni ricorrenti |
 | Prosa o elenco, struttura e lunghezza dei post | [core/social/12-style.md](../core/social/12-style.md) | Prosa, non elenchi; Struttura di un post; Lunghezza |
 | Emoji e cuori 💛💙 | [core/social/12-style.md](../core/social/12-style.md) | Emoji |
 | Formule di rimando, credito fotografico | [core/social/12-style.md](../core/social/12-style.md) | Formule di rimando; Struttura di un post |
@@ -36,17 +37,19 @@ rigenera gli adapter con `./build.sh`.
 
 Questa sezione **non è inclusa nelle skill**: è un repertorio per chi scrive a
 mano. Le skill social seguono il registro descritto in
-[core/social/12-style.md](../core/social/12-style.md).
+[core/social/12-style.md](../core/social/12-style.md), che accoglie solo
+"Weekend a tutto gas", "campioncini" e "siamo fieri di voi", con le regole d'uso
+della sezione "Espressioni ricorrenti".
 
 **Atleti:** i nostri ragazzi | i nostri portacolori | i nostri piccoli atleti |
-campioncini | le categorie maggiori | la truppa | i nostri vulcanici Giovanissimi
+le categorie maggiori | la truppa | i nostri vulcanici Giovanissimi
 
 **Colori:** i nostri colori | i colori giallo-blu | gialloblù |
 far brillare i nostri colori
 
 **Apertura:** Si torna in gruppo | Non ci si ferma mai |
 Il caldo estivo non ferma la nostra passione | Squadra al gran completo |
-Weekend a tutto gas | Apriamo [mese] a tutta velocità
+Apriamo [mese] a tutta velocità
 
 **Chiusura:** date il massimo e divertitevi | in bocca al lupo a tutti i nostri
-portacolori | siamo fieri di voi | ci riempite di orgoglio | bravissimi
+portacolori | ci riempite di orgoglio | bravissimi

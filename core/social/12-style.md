@@ -22,6 +22,20 @@ del gruppo.
 Ogni post celebra **il gruppo prima dell'individuo**, e chiude sempre con un
 complimento collettivo.
 
+### Espressioni ricorrenti
+
+Tre espressioni della casa, da usare con misura e solo nel contesto giusto:
+
+| Espressione | Dove si usa | Dove no |
+|---|---|---|
+| "Weekend a tutto gas" | Apertura di un pre-gara con più impegni nello stesso fine settimana | Post risultati, weekend con una sola gara |
+| "campioncini" | Giovanissimi, in tono affettuoso | Esordienti e Allievi; mai riferito a un solo atleta |
+| "siamo fieri di voi" | Chiusura dopo un risultato di squadra, un titolo o a fine stagione | Una domenica normale, flash di un solo atleta |
+
+**Al massimo una per post**, e mai la stessa in due post consecutivi: ripetute
+ogni settimana diventano un tic e perdono forza. Se il contesto non le
+giustifica pienamente, scegli una formula più semplice.
+
 ### Prosa, non elenchi
 
 I post si scrivono **sempre in prosa narrativa**, anche quando il weekend
