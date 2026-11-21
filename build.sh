@@ -21,6 +21,7 @@ esac
 
 SHARED=(core/shared/00-identity.md core/shared/01-shared-rules.md)
 SOCIAL=(core/social/10-role.md core/social/11-triggers.md core/social/12-style.md core/social/13-content-rules.md core/social/14-platforms.md core/social/19-templates.md)
+CLAUDE_ONLY=(core/claude/90-verifica.md)
 EDITORIAL=(core/editorial/20-role.md core/editorial/21-article-format.md core/editorial/22-seo.md core/editorial/23-content-types.md core/editorial/24-lexicon.md)
 
 WORK="$(mktemp -d)"
@@ -57,11 +58,17 @@ mkdir -p "$DEST/claude-skill/social-progetto-ciclismo"
 mkdir -p "$DEST/claude-skill/editorial-progetto-ciclismo"
 mkdir -p "$DEST/gemini-gem" "$DEST/openai-gpt" "$DEST/generic"
 
-# --- Claude Skills: frontmatter + corpo ---
-cat adapters/claude-skill/social-frontmatter.yaml "$WORK/social.md" \
-  > "$DEST/claude-skill/social-progetto-ciclismo/SKILL.md"
-cat adapters/claude-skill/editorial-frontmatter.yaml "$WORK/editorial.md" \
-  > "$DEST/claude-skill/editorial-progetto-ciclismo/SKILL.md"
+# --- Claude Skills: frontmatter + corpo + modulo solo Claude + script ---
+# Solo le skill di Claude possono eseguire codice: ricevono lo script di
+# verifica e le istruzioni per usarlo. Gli altri adapter restano testo unico.
+for skill in social editorial; do
+  dir="$DEST/claude-skill/$skill-progetto-ciclismo"
+  { cat "adapters/claude-skill/$skill-frontmatter.yaml" "$WORK/$skill.md"
+    for f in "${CLAUDE_ONLY[@]}"; do cat "$f"; echo ""; done
+  } > "$dir/SKILL.md"
+  mkdir -p "$dir/scripts"
+  cp scripts/verifica_testo.py "$dir/scripts/verifica_testo.py"
+done
 
 # --- Gemini Gems ---
 { echo "<!-- Incolla nel campo Instructions della Gem. -->"; echo ""; cat "$WORK/social.md"; } \

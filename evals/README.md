@@ -9,7 +9,9 @@ skill. Ci sono due livelli.
 191 caratteri, Threads entro 500, prima riga Instagram entro 125, niente link
 nella didascalia Instagram, niente hashtag nel testo, hashtag consigliati senza
 accenti, trattino breve nella denominazione, slug valido, numero di emoji,
-ordinali sospetti (`9° posizione`, `3° nelle`).
+ordinali sospetti (`9° posizione`, `3° nelle`), costruzioni tipiche dei testi
+generati (contrapposizioni a effetto, domande con risposta immediata, "E voi",
+frasi fatte: solo avvisi).
 
 ```bash
 python3 scripts/verifica_testo.py output.md

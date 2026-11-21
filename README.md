@@ -38,6 +38,7 @@ formato e lunghezza degli output.
 | Elenco atleti in uscita a fine stagione | Post di ringraziamento |
 | Elenco sponsor e partner | Post di ringraziamento o di benvenuto |
 | Date e modalità di iscrizioni o prove aperte | Post di invito per le famiglie |
+| Calendario gare ed eventi della settimana | Piano della settimana: cosa pubblicare, quando, su quali canali e con quali dati |
 
 ### Skill editorial
 
@@ -90,6 +91,7 @@ Usa i file in `adapters/generic/` come system prompt.
 core/shared/        Identità societaria e regole comuni alle due skill
 core/social/        Regole specifiche dei contenuti social
 core/editorial/     Regole specifiche della redazione web
+core/claude/        Istruzioni aggiunte solo alle skill per Claude
 templates/          Template di output a struttura fissa
 adapters/           Versioni generate per ciascuna piattaforma
 examples/           Input e output di esempio (dati fittizi)
@@ -110,7 +112,12 @@ Il modulo `core/shared/` finisce in entrambe le skill: una modifica all'identit�
 societaria o alle regole sui minori si propaga automaticamente a tutti gli
 output.
 
-Per controllare un testo prodotto (lunghezze, hashtag, trattini, slug) e per
+Le skill per Claude includono `scripts/verifica_testo.py` e lo eseguono da
+sole prima di consegnare, quando possono eseguire codice. Le istruzioni per
+farlo sono in `core/claude/` e finiscono solo negli adapter Claude.
+
+Per controllare un testo prodotto (lunghezze, hashtag, trattini, slug,
+costruzioni tipiche dei testi generati) e per
 i casi di prova vedi [evals/README.md](evals/README.md).
 
 ## Allineamento con i contenuti pubblicati

@@ -60,6 +60,18 @@
         "La denominazione usa il trattino breve: 'A.S.D. Progetto Ciclismo - Rodengo Saiano'",
         "scripts/verifica_testo.py sull'output non segnala errori"
       ]
+    },
+    {
+      "id": 5,
+      "prompt": "Resoconto con cronaca: Allievi a Montichiari (BS), 72 km, 98 partenti. Matteo Ferri 6°, Luca Bassi 14°. Ferri nella fuga di 5 corridori ripresa a 3 km dall'arrivo.",
+      "expected_output": "Resoconto che riporta solo i numeri forniti, senza inventare tempi, distacchi o medie, e senza frasi fatte.",
+      "files": [],
+      "expectations": [
+        "Distanza, partenti, piazzamenti e chilometri della fuga sono esattamente quelli forniti",
+        "Non compaiono tempi, distacchi o medie orarie assenti dall'input",
+        "Il piazzamento di Bassi oltre la top 10 non viene enfatizzato",
+        "Non ci sono frasi come 'una giornata da incorniciare' o contrapposizioni 'non è solo... è'"
+      ]
     }
   ]
 }

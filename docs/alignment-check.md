@@ -91,6 +91,11 @@ Nella stessa revisione la skill social è stata riordinata: la tabella "cosa
 produrre" segue subito il ruolo, la regola sulle date è diventata una tabella
 per canale nelle regole comuni, i template sono in fondo.
 
+Dalla stessa verifica nasce la tabella "Cosa i post pubblicati non contengono"
+della skill social, con il numero di post esaminati. Nelle verifiche successive
+conta anche ciò che non compare mai (domande al pubblico, terne di aggettivi,
+frasi fatte) e aggiorna la tabella con il nuovo campione.
+
 Refusi del campione non riprodotti dalle regole: "2° nelle G3 Femminili"
 (concordanza), "riagazzi", "tutti i dettaglio".
 

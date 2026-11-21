@@ -79,6 +79,33 @@
         "Non compaiono nomi di atleti come testimonial",
         "Il post non contiene hashtag"
       ]
+    },
+    {
+      "id": 7,
+      "prompt": "Piano della settimana: sabato 29 novembre ciclocross Giovanissimi a Bedizzole (BS), domenica 30 novembre ciclocross Esordienti e Allievi a Ospitaletto (BS). Venerdì 28 sera cena sociale.",
+      "expected_output": "Scaletta giorno per giorno con articolo anteprima e post anteprima prima del sabato, flash la sera delle gare, articoli e post risultati il giorno dopo, cena sociale senza sovrapporsi ai risultati; dati da raccogliere per ogni voce; nessun testo di post.",
+      "files": [],
+      "expectations": [
+        "Il piano è una tabella giorno per giorno con date assolute",
+        "Per ogni rilancio social l'articolo del sito è previsto prima del post",
+        "C'è una sola anteprima per tutto il fine settimana",
+        "Ogni voce indica i dati da raccogliere (classifiche, foto con liberatoria, link)",
+        "Orari mancanti sono segnalati tra i dati da raccogliere, non inventati",
+        "Il piano non contiene i testi dei post e chiude offrendo di scrivere il primo contenuto"
+      ]
+    },
+    {
+      "id": 8,
+      "prompt": "Risultati di oggi a Calcinato (BS), Giovanissimi. G1: 1° Luca Neri, 3° Paolo Riva. G3: 2° Tommaso Sala. G4F: 1ª Giada Fontana. G6: 4° Andrea Testa, 5° Mattia Villa. Società 2ª assoluta.",
+      "expected_output": "Post risultati con i numeri esattamente come forniti e conteggi coerenti con l'elenco, senza costruzioni da testo generato.",
+      "files": [],
+      "expectations": [
+        "Ogni piazzamento citato corrisponde esattamente all'input",
+        "Se il post conta vittorie o podi, il conteggio è giusto: 2 vittorie, 4 podi",
+        "Non compaiono numeri assenti dall'input (tempi, iscritti, distanze)",
+        "Non ci sono contrapposizioni 'non è solo... è', domande con risposta immediata o domande al pubblico",
+        "La classifica di società viene prima dei risultati individuali"
+      ]
     }
   ]
 }

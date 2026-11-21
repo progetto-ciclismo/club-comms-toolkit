@@ -48,6 +48,23 @@ EMOJI = re.compile(
 )
 
 
+# Costruzioni tipiche dei testi generati (sezione "Scrittura naturale" delle
+# regole comuni). Sono indizi, non certezze: producono avvisi, non errori.
+CANALI_DI_TESTO = ("base", "instagram", "story", "threads", "articolo")
+TIC = (
+    ("contrapposizione a effetto",
+     re.compile(r"\b[Nn]on (?:è|e'|sono|era|erano|sarà|saranno) solo\b[^.!?\n]{0,60}?"
+                r"[,;:]\s*(?:ma\s+)?(?:è|e'|sono|era|erano|sarà|saranno)\b")),
+    ("domanda con risposta immediata",
+     re.compile(r"(?:^|(?<=[.!…]\s))(?:[^\s?.!]+[ \t]+){0,3}[^\s?.!]+\?[ \t]+"
+                r"(?=[A-ZÀÈÉÌÒÙ0-9])", re.M)),
+    ("domanda al pubblico", re.compile(r"\bE voi\b[^?\n]{0,80}\?")),
+    ("frase fatta",
+     re.compile(r"\bda incorniciare\b|\bnuova pagina\b|\btestimonianza d[i'ea]",
+                re.IGNORECASE)),
+)
+
+
 def conta_emoji(testo):
     return len(EMOJI.findall(testo))
 
@@ -140,6 +157,11 @@ def controlla(titolo, canale, righe):
         avvisi.append(f"'{m.group(0)}': con un nome o una categoria femminile serve ª")
     for m in re.finditer(r"\b\d+ª\s+nei\b|\b\d+ª\s+(posto|classificato)\b", testo):
         avvisi.append(f"'{m.group(0)}': con un nome o una categoria maschile serve °")
+    if canale in CANALI_DI_TESTO:
+        for nome, schema in TIC:
+            for m in schema.finditer(testo):
+                avvisi.append(f"{nome}: '{' '.join(m.group(0).split())}' "
+                              "(vedi 'Scrittura naturale')")
 
     if canale == "hashtag":
         tag = HASHTAG.findall(testo)

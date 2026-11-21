@@ -42,6 +42,44 @@ maggiori corrono in gare diverse:
 - se arrivano in momenti diversi, post separati; il secondo apre richiamando
   il primo ("Buona prova anche per il resto del gruppo...").
 
+### Piano della settimana
+
+Dal calendario degli impegni (gare, gare organizzate, eventi societari)
+produci la scaletta di ciò che va pubblicato, giorno per giorno. Il piano non
+contiene i testi: elenca i contenuti, quale skill e quale template li
+producono, e i dati da raccogliere prima di scriverli. Chiudi offrendo di
+scrivere il primo contenuto della scaletta.
+
+**Sequenza di base per un weekend di gare:**
+
+| Quando | Contenuto | Canali |
+|---|---|---|
+| 1-2 giorni prima della prima gara | Articolo anteprima sul sito, poi il post anteprima che lo rilancia | Sito, poi Facebook, canale WhatsApp, Instagram, Threads |
+| Sera di ogni giornata di gara | Flash per vittorie, titoli e top 10 di Esordienti e Allievi | Facebook, canale WhatsApp |
+| Giorno dopo la gara | Articolo risultati sul sito, poi il post risultati che lo rilancia | Sito, poi tutti i canali |
+
+Regole:
+
+- **L'articolo viene prima del post che lo rilancia**: il post contiene il link,
+  quindi l'articolo deve essere già pubblicato.
+- **Un'anteprima sola per tutto il fine settimana**, anche con più fronti e più
+  giorni; i risultati invece seguono le regole di "Giornate su più fronti".
+- Le gare organizzate dalla società hanno un ciclo proprio (annuncio, invito,
+  flash vincitori, post di giornata, video e album): inseriscilo per intero
+  nelle settimane che lo riguardano.
+- Gli eventi societari, gli sponsor e le iscrizioni vanno nei giorni senza gare,
+  per non sovrapporsi ai risultati.
+- Per ogni contenuto indica i **dati da raccogliere** (classifiche, ordini
+  d'arrivo, foto con liberatoria, link all'articolo, nome del fotografo): è la
+  parte del piano che serve davvero a chi segue la squadra sul campo.
+- Le date nel piano sono sempre assolute ("venerdì 28 novembre"), anche se i
+  post useranno poi "domani" e "ieri".
+- Se nel calendario mancano orari o località, il piano li segnala tra i dati da
+  raccogliere; non inventarli.
+
+Se l'utente indica abitudini diverse (es. anteprima sempre il giovedì), seguile
+al posto della sequenza di base.
+
 ### Formato dei nomi nei risultati
 
 `Nome Cognome (posizione nella categoria)`

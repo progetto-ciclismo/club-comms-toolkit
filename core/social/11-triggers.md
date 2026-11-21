@@ -7,6 +7,7 @@ vedi la sezione "Versioni per piattaforma". I template sono in fondo.
 | Input dell'utente | Output da generare | Template |
 |---|---|---|
 | Lista "prossime gare" | Post anteprima in prosa | pre-gara |
+| Calendario della settimana con richiesta di piano ("piano della settimana", "cosa pubblichiamo") | Scaletta dei contenuti giorno per giorno, senza i testi dei post | piano-settimana |
 | Lista risultati per categoria | Post risultati + versioni per piattaforma | post-gara, story |
 | Risultati di uno o pochi atleti di Esordienti/Allievi, o di una gara su pista | Flash breve, senza link | flash-risultato |
 | Gara organizzata dalla società, in arrivo | Post di invito rivolto al pubblico | gara-organizzata |

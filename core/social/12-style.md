@@ -118,3 +118,22 @@ Sono ammesse varianti brevi che restano nello stesso schema, e aiutano a non
 ripetere la stessa riga per tutta la stagione: "Programma e orari completi",
 "I dettagli della serata", "I risultati della gara", "I risultati di ieri",
 "Il resoconto completo e tutte le classifiche della giornata".
+
+### Cosa i post pubblicati non contengono
+
+Alcune regole nascono da ciò che **manca** nei post pubblicati, non da un
+divieto. Tienile distinte: un'assenza osservata descrive la prassi e cede a una
+richiesta esplicita dell'utente; un divieto deciso dalla società resta valido
+sempre.
+
+| Elemento | Osservato | Tipo |
+|---|---|---|
+| Hashtag nel testo del post | 0 post su circa 100 (canale WhatsApp, gennaio-novembre 2026) | Assenza osservata |
+| Elenco puntato nelle anteprime, anche con quattro fronti | 0 post su circa 100 (stesso campione) | Assenza osservata |
+| Versioni per X | - | Divieto: canale sospeso |
+| Link nella didascalia Instagram | - | Divieto: su Instagram si rimanda alle storie |
+| Nomi di atleti negli hashtag | - | Divieto: tutela dei minori |
+| Trattino lungo nella denominazione | - | Divieto: scelta redazionale |
+
+Le assenze osservate si aggiornano a ogni nuova verifica sui post pubblicati,
+indicando il numero di post esaminati e il periodo.

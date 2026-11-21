@@ -19,11 +19,15 @@ rigenera gli adapter con `./build.sh`.
 | Sottocategorie G2F / G2 Fem. | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Sottocategorie Giovanissimi |
 | Date relative o assolute | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Date |
 | Hashtag consigliati | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Hashtag consigliati |
+| Controllo dei numeri prima di consegnare | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Accuratezza |
+| Costruzioni da testo generato da evitare | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Scrittura naturale |
 | Tono social, superlativi | [core/social/12-style.md](../core/social/12-style.md) | Tono |
 | "Weekend a tutto gas", "campioncini", "siamo fieri di voi" | [core/social/12-style.md](../core/social/12-style.md) | Espressioni ricorrenti |
 | Prosa o elenco, struttura e lunghezza dei post | [core/social/12-style.md](../core/social/12-style.md) | Prosa, non elenchi; Struttura di un post; Lunghezza |
 | Emoji e cuori 💛💙 | [core/social/12-style.md](../core/social/12-style.md) | Emoji |
 | Formule di rimando, credito fotografico | [core/social/12-style.md](../core/social/12-style.md) | Formule di rimando; Struttura di un post |
+| Cosa i post pubblicati non contengono | [core/social/12-style.md](../core/social/12-style.md) | Cosa i post pubblicati non contengono |
+| Piano della settimana | [core/social/13-content-rules.md](../core/social/13-content-rules.md) | Piano della settimana |
 | Ordine dei post risultati, piazzamenti in prosa | [core/social/13-content-rules.md](../core/social/13-content-rules.md) | Ordine delle informazioni; Formato dei nomi nei risultati |
 | Colori nel testo, nome della società | [core/social/13-content-rules.md](../core/social/13-content-rules.md) | Riferimenti ai colori sociali; Nome della società |
 | Instagram, Threads, story | [core/social/14-platforms.md](../core/social/14-platforms.md) | Versioni per piattaforma |
