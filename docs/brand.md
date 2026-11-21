@@ -1,166 +1,42 @@
 # Linee guida di identità
 
-## Denominazione
+Le regole di identità e di stile vivono **solo in `core/`**: sono i file che
+`build.sh` assembla nelle skill. Questa pagina non ne ripete i contenuti, così
+non può disallinearsi. Per modificare una regola, modifica il file indicato e
+rigenera gli adapter con `./build.sh`.
 
-| Contesto | Forma |
-|---|---|
-| Prima menzione, comunicati, articoli | A.S.D. Progetto Ciclismo - Rodengo Saiano |
-| Menzioni successive, social | Progetto Ciclismo |
+## Dove trovare cosa
 
-Il trattino nella denominazione è **breve**: è la forma più comune e naturale,
-e mantiene i testi riconoscibili come scritti da una persona. Vale anche nel
-titolo formulaico dei risultati.
-
-## Canali ufficiali
-
-| Canale | Riferimento |
-|---|---|
-| Sito | asdprogettociclismorodengosaiano.it |
-| Facebook | ProgettoCiclismoRodengoSaiano |
-| Instagram | @rodengosaiano |
-| Threads | @rodengosaiano |
-| X (Twitter) | @Rodengosaiano |
-| YouTube | @progettociclismo-rodengosaiano |
-| Canale WhatsApp | whatsapp.com/channel/0029Vb5tzURDZ4LZuUqZgl04 |
-
-## Colori sociali
-
-Grigio chiaro (quasi bianco), giallo, blu.
-
-Sui social i colori si richiamano con le emoji 💛 💙, usate come firma
-ricorrente a chiusura o in apertura di post.
-
-## Territorio
-
-Rodengo Saiano, Franciacorta, provincia di Brescia. Da citare quando si parla di
-eventi organizzati dalla società o di attività sul territorio.
-
-## Categorie
-
-| Categoria | Età |
-|---|---|
-| Giovanissimi | 6-12 anni |
-| Esordienti | 13-14 anni |
-| Allievi | 15-16 anni |
-
-Le sottocategorie Giovanissimi (G1-G6) e la distinzione Esordienti di primo e
-secondo anno vanno riportate quando presenti nei dati di origine.
-
-## Tono di voce
-
-| Fare | Non fare |
-|---|---|
-| Sportivo, caloroso, entusiasta | Paragoni con il professionismo |
-| Massimo 1-2 superlativi per post | Enfasi sul singolo a scapito del gruppo |
-| Verbi concreti: vince, conquista, chiude quarto | Ogni piazzamento definito "fantastico" |
-| Valorizzare il percorso e la crescita | Trattare il piazzamento come giudizio sulla persona |
-| Ringraziare staff, volontari, genitori | Personalizzare eccessivamente |
-| Nome + Cognome sempre | Solo cognome, soprannomi |
-| Date assolute | Solo "domani", "domenica" |
-
-## Emoji di riferimento
-
-🚴‍♂️ 🚴‍♀️ 💛 💙 🚀 🏆 🥇 🥈 🥉 👏 ✨ 🌟 💪 ⚡ 💨 🔥 ☀️ 🇮🇹 ⏱️ ⛰ 🤩 📣 ➡️ 📸
-
-Da 5 a 10 per post: 2-3 in apertura, una o due per paragrafo, 2-3 in chiusura.
-I cuori 💛💙 compaiono in quasi ogni post.
-
-## Hashtag
-
-**Non in uso.** I post pubblicati non contengono hashtag. Inserirli solo su
-richiesta esplicita.
-
-## Formato dei piazzamenti - due convenzioni
-
-Le convenzioni sono **diverse tra social e sito** e non vanno mescolate.
-
-**Social (prosa):**
-
-`Nome Cognome (posizione nella categoria)` — Davide Colombo (2° nei G1),
-Elisa Greco (3ª nelle G5F).
-
-Concordanza al femminile obbligatoria: 1ª, 2ª, 3ª, "nelle" invece di "nei",
-"Campionessa" invece di "Campione". Sottocategorie in forma compatta: G2F, G5F.
-
-**Articolo risultati sul sito (record strutturato):**
-
-`[Sigla]: [pos]° Class. [Cognome Nome] e [pos]° Class. [Cognome Nome];`
-
-G1: 1° Class. Rossi Matteo e 2° Class. Colombo Davide;
-G5 Fem.: 1° Class. Ferrari Giulia e 3° Class. Greco Elisa;
-
-Ordine Cognome Nome. Abbreviazione `Class.` puntata. Ordinale `°` anche per le
-atlete. Sottocategorie in forma estesa: G2 Fem., G5 Fem. Punto e virgola a fine
-riga, punto sull'ultima.
-
-Riga finale: `Classifica: 2° Classificata assoluta e 3° Classificata nel Femminile.`
-
-## Ordine nei post risultati
-
-1. Gancio con località
-2. **Classifica di società** (assoluta e femminile)
-3. Vittorie individuali
-4. Podi e piazzamenti
-5. Complimento collettivo
-
-La classifica di società viene sempre prima dei risultati individuali.
-
-## Convenzioni tipografiche
-
-| Elemento | Forma |
-|---|---|
-| Località | Comune ([PROV]) — Coccaglio (BS), Dro - Loc. Oltra (TN) |
-| Edizione gara | Ordinale — 2° GP Code Stampi |
-| Date nel testo | In grassetto — **domenica 2 agosto** |
-| Distanza | Punto come separatore decimale — 38.200 Km, 0.900 Km |
-| Orari | Ore 16:00 |
-| Iscritti | 186 Atleti |
-| Categoria combinata | Esordienti 1° e 2° anno |
-
-## Formule ricorrenti
-
-- Rimando ai dettagli: `➡️ Tutti i dettagli: [link]`
-- Rimando ai risultati: `➡️ Tutti i risultati: [link]`
-- Evento in casa: "organizzato da Progetto Ciclismo a Rodengo Saiano"
-
-## Titoli degli articoli
-
-Due convenzioni distinte, da non confondere.
-
-**Anteprime gare** — titolo a due parti separate dai due punti: frase evocativa
-+ dettaglio concreto.
-
-`Caccia al titolo bresciano: Giovanissimi a Roncadelle per il Provinciale, Esordienti e Allievi di scena a Pozzolengo`
-
-**Risultati** — formato fisso, nessuna variazione creativa.
-
-`Risultati Cat. [Categoria] [specialità] - [Località] ([PROV])`
-
-## Prosa o elenco nelle anteprime
-
-| Situazione | Forma |
-|---|---|
-| 1-2 impegni | Prosa pura |
-| 3 o più impegni, o più giorni | Apertura narrativa (2-3 frasi) + elenco compatto |
-
-I primi 125 caratteri devono essere sempre prosa: su Instagram sono l'unica
-parte visibile prima del troncamento. I post risultati restano sempre in prosa.
-
-## Formule di rimando
-
-| Contesto | Formula |
-|---|---|
-| Anteprima gare | `➡️ Scopri tutti i dettagli nell'articolo:` |
-| Risultati | `➡️ Tutti i risultati:` |
-| Gara organizzata dalla società | `➡️ Tutti i dettagli e gli orari:` |
-| Racconto o approfondimento | `➡️ Leggi il racconto completo:` |
-
-## Credito fotografico
-
-Quando la foto non è della società: `📸 [Nome fotografo o agenzia]` come ultima
-riga del post.
+| Argomento | File | Sezione |
+|---|---|---|
+| Denominazione, trattino breve, forma breve | [core/shared/00-identity.md](../core/shared/00-identity.md) | Identità societaria |
+| Canali ufficiali (sito, social, WhatsApp) | [core/shared/00-identity.md](../core/shared/00-identity.md) | Canali ufficiali |
+| Colori sociali, sede, territorio | [core/shared/00-identity.md](../core/shared/00-identity.md) | Identità societaria |
+| Categorie ed età | [core/shared/00-identity.md](../core/shared/00-identity.md) | Categorie attive |
+| Missione | [core/shared/00-identity.md](../core/shared/00-identity.md) | Missione |
+| Tutela dei minori | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Tutela dei minori |
+| Ordine Nome Cognome / Cognome Nome | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Nomi |
+| Sottocategorie G2F / G2 Fem. | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Sottocategorie Giovanissimi |
+| Date relative o assolute | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Date |
+| Hashtag consigliati | [core/shared/01-shared-rules.md](../core/shared/01-shared-rules.md) | Hashtag consigliati |
+| Tono social, superlativi | [core/social/12-style.md](../core/social/12-style.md) | Tono |
+| Prosa o elenco, struttura e lunghezza dei post | [core/social/12-style.md](../core/social/12-style.md) | Prosa, non elenchi; Struttura di un post; Lunghezza |
+| Emoji e cuori 💛💙 | [core/social/12-style.md](../core/social/12-style.md) | Emoji |
+| Formule di rimando, credito fotografico | [core/social/12-style.md](../core/social/12-style.md) | Formule di rimando; Struttura di un post |
+| Ordine dei post risultati, piazzamenti in prosa | [core/social/13-content-rules.md](../core/social/13-content-rules.md) | Ordine delle informazioni; Formato dei nomi nei risultati |
+| Colori nel testo, nome della società | [core/social/13-content-rules.md](../core/social/13-content-rules.md) | Riferimenti ai colori sociali; Nome della società |
+| Instagram, Threads, story | [core/social/14-platforms.md](../core/social/14-platforms.md) | Versioni per piattaforma |
+| Titoli di anteprime e risultati | [core/editorial/21-article-format.md](../core/editorial/21-article-format.md) | Titolo delle anteprime; Titolo dei risultati |
+| Righe di piazzamento sul sito (`Class.`) | [core/editorial/21-article-format.md](../core/editorial/21-article-format.md) | Formato delle righe di piazzamento |
+| Scheda SEO | [core/editorial/22-seo.md](../core/editorial/22-seo.md) | Scheda SEO |
+| Lessico del sito | [core/editorial/24-lexicon.md](../core/editorial/24-lexicon.md) | Lessico ricorrente |
+| Convenzioni tipografiche (località, edizioni, distanze, orari) | [core/editorial/24-lexicon.md](../core/editorial/24-lexicon.md) | Convenzioni tipografiche |
 
 ## Lessico social ricorrente
+
+Questa sezione **non è inclusa nelle skill**: è un repertorio per chi scrive a
+mano. Le skill social seguono il registro descritto in
+[core/social/12-style.md](../core/social/12-style.md).
 
 **Atleti:** i nostri ragazzi | i nostri portacolori | i nostri piccoli atleti |
 campioncini | le categorie maggiori | la truppa | i nostri vulcanici Giovanissimi
