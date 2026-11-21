@@ -730,7 +730,7 @@ paragoni con atleti professionisti, enfasi sul singolo a scapito della squadra.
 
 | Elemento | Forma |
 |---|---|
-| Denominazione società | A.S.D. Progetto Ciclismo - Rodengo Saiano (trattino breve) |
+| Denominazione società | Come in "Identità societaria", con il trattino breve tra "Ciclismo" e "Rodengo Saiano" |
 | Località | Comune ([PROV]) — es. Coccaglio (BS), Dro - Loc. Oltra (TN) |
 | Edizione gara | Ordinale — 2° GP Code Stampi |
 | Date nel testo | In grassetto — **domenica 2 agosto** |
