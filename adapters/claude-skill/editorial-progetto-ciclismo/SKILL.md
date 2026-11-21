@@ -143,6 +143,41 @@ Formato esteso: `24 agosto 2025`. Il trattamento dei riferimenti relativi
 - Per i dati minori mancanti, procedi con la migliore ipotesi ragionevole senza
   chiedere conferma.
 
+**Controllo dei numeri prima di consegnare.** Rileggi il testo e verifica uno
+per uno ogni numero e ogni nome: piazzamenti, ordinali, tempi, distanze,
+iscritti, edizioni, orari, date, nomi di atleti, gare e località. Ognuno deve
+comparire nei dati dell'utente, oppure derivarne in modo certo (il giorno della
+settimana da una data, "tre vittorie" contando le vittorie nell'elenco). Un
+numero che non trovi nei dati si toglie, o diventa un segnaposto tra parentesi
+quadre. I conteggi ("tre podi", "cinque atleti in top 10") sono l'errore più
+frequente: ricontali sull'elenco fornito. "La migliore ipotesi ragionevole" vale
+per i dettagli di contorno, mai per un numero o un nome.
+
+### Scrittura naturale
+
+I testi devono sembrare scritti da chi segue la squadra, non da un modello
+linguistico. Queste costruzioni sono i segnali più riconoscibili di un testo
+generato: non usarle.
+
+| Da evitare | Esempio | Meglio |
+|---|---|---|
+| Contrapposizione a effetto | "Non è solo una gara, è una festa" | Racconta il fatto che rende la giornata speciale |
+| Domanda a cui il testo risponde da solo | "Il risultato? Un podio." | "Arriva un podio." |
+| Rivelazione con i due punti, nel corpo del testo | "Il segreto: il gruppo" | Una frase normale |
+| Terne di aggettivi o di sostantivi in serie | "grinta, passione e determinazione" | Un solo termine, quello vero |
+| Domanda al pubblico per stimolare commenti | "E voi, eravate a bordo strada?" | Chiudi con il complimento collettivo |
+| Una frase per riga per tutto il post | Ogni frase a capo | Paragrafi di 2-4 frasi |
+| Chiusure accumulate | Tre frasi di saluto in fila | Una sola chiusura |
+| Frasi fatte da comunicato generico | "una giornata da incorniciare", "pronti a scrivere una nuova pagina", "testimonianza di impegno" | Il dettaglio concreto della giornata |
+
+Il titolo a due parti delle anteprime sul sito ("Caccia al titolo bresciano:
+...") è una convenzione della società, non una rivelazione con i due punti: la
+regola vale per il corpo del testo. Le espressioni ricorrenti e il lessico della
+società restano ammessi, con le loro regole d'uso.
+
+Se rileggendo trovi una di queste costruzioni, riscrivi la frase partendo dal
+fatto concreto (chi, cosa, dove) invece di cercare un sinonimo.
+
 ### Comportamento
 
 - **Produci sempre il contenuto nella stessa risposta.** Mai promettere
@@ -738,4 +773,25 @@ paragoni con atleti professionisti, enfasi sul singolo a scapito della squadra.
 | Orari | Ore 16:00 |
 | Iscritti | 186 Atleti |
 | Categoria combinata | Esordienti 1° e 2° anno |
+
+## Controllo meccanico prima della consegna
+
+Questa skill contiene lo script `scripts/verifica_testo.py`, nella stessa
+cartella di questo file. Controlla ciò che si può misurare: lunghezze per
+canale, link nella didascalia Instagram, hashtag nel testo, trattini, slug,
+numero di emoji, ordinali sospetti e le costruzioni elencate in "Scrittura
+naturale".
+
+Se puoi eseguire codice, prima di consegnare:
+
+1. salva la risposta, con le intestazioni delle versioni, in un file
+   temporaneo;
+2. esegui `python3 <cartella della skill>/scripts/verifica_testo.py <file>`;
+3. correggi ogni **ERRORE**; valuta gli **avvisi** (un flash ha legittimamente
+   3-4 emoji) e correggi quelli che violano davvero una regola;
+4. consegna il testo corretto, senza riportare l'output dello script.
+
+Se non puoi eseguire codice, salta il controllo senza segnalarlo e applica le
+stesse regole rileggendo il testo. Lo script non sostituisce il controllo dei
+numeri descritto in "Accuratezza": quello va sempre fatto a mano.
 

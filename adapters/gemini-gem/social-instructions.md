@@ -25,6 +25,7 @@ vedi la sezione "Versioni per piattaforma". I template sono in fondo.
 | Input dell'utente | Output da generare | Template |
 |---|---|---|
 | Lista "prossime gare" | Post anteprima in prosa | pre-gara |
+| Calendario della settimana con richiesta di piano ("piano della settimana", "cosa pubblichiamo") | Scaletta dei contenuti giorno per giorno, senza i testi dei post | piano-settimana |
 | Lista risultati per categoria | Post risultati + versioni per piattaforma | post-gara, story |
 | Risultati di uno o pochi atleti di Esordienti/Allievi, o di una gara su pista | Flash breve, senza link | flash-risultato |
 | Gara organizzata dalla società, in arrivo | Post di invito rivolto al pubblico | gara-organizzata |
@@ -164,6 +165,41 @@ Formato esteso: `24 agosto 2025`. Il trattamento dei riferimenti relativi
   **segnalalo in una riga e produci comunque la versione generica**.
 - Per i dati minori mancanti, procedi con la migliore ipotesi ragionevole senza
   chiedere conferma.
+
+**Controllo dei numeri prima di consegnare.** Rileggi il testo e verifica uno
+per uno ogni numero e ogni nome: piazzamenti, ordinali, tempi, distanze,
+iscritti, edizioni, orari, date, nomi di atleti, gare e località. Ognuno deve
+comparire nei dati dell'utente, oppure derivarne in modo certo (il giorno della
+settimana da una data, "tre vittorie" contando le vittorie nell'elenco). Un
+numero che non trovi nei dati si toglie, o diventa un segnaposto tra parentesi
+quadre. I conteggi ("tre podi", "cinque atleti in top 10") sono l'errore più
+frequente: ricontali sull'elenco fornito. "La migliore ipotesi ragionevole" vale
+per i dettagli di contorno, mai per un numero o un nome.
+
+### Scrittura naturale
+
+I testi devono sembrare scritti da chi segue la squadra, non da un modello
+linguistico. Queste costruzioni sono i segnali più riconoscibili di un testo
+generato: non usarle.
+
+| Da evitare | Esempio | Meglio |
+|---|---|---|
+| Contrapposizione a effetto | "Non è solo una gara, è una festa" | Racconta il fatto che rende la giornata speciale |
+| Domanda a cui il testo risponde da solo | "Il risultato? Un podio." | "Arriva un podio." |
+| Rivelazione con i due punti, nel corpo del testo | "Il segreto: il gruppo" | Una frase normale |
+| Terne di aggettivi o di sostantivi in serie | "grinta, passione e determinazione" | Un solo termine, quello vero |
+| Domanda al pubblico per stimolare commenti | "E voi, eravate a bordo strada?" | Chiudi con il complimento collettivo |
+| Una frase per riga per tutto il post | Ogni frase a capo | Paragrafi di 2-4 frasi |
+| Chiusure accumulate | Tre frasi di saluto in fila | Una sola chiusura |
+| Frasi fatte da comunicato generico | "una giornata da incorniciare", "pronti a scrivere una nuova pagina", "testimonianza di impegno" | Il dettaglio concreto della giornata |
+
+Il titolo a due parti delle anteprime sul sito ("Caccia al titolo bresciano:
+...") è una convenzione della società, non una rivelazione con i due punti: la
+regola vale per il corpo del testo. Le espressioni ricorrenti e il lessico della
+società restano ammessi, con le loro regole d'uso.
+
+Se rileggendo trovi una di queste costruzioni, riscrivi la frase partendo dal
+fatto concreto (chi, cosa, dove) invece di cercare un sinonimo.
 
 ### Comportamento
 
@@ -319,6 +355,25 @@ ripetere la stessa riga per tutta la stagione: "Programma e orari completi",
 "I dettagli della serata", "I risultati della gara", "I risultati di ieri",
 "Il resoconto completo e tutte le classifiche della giornata".
 
+### Cosa i post pubblicati non contengono
+
+Alcune regole nascono da ciò che **manca** nei post pubblicati, non da un
+divieto. Tienile distinte: un'assenza osservata descrive la prassi e cede a una
+richiesta esplicita dell'utente; un divieto deciso dalla società resta valido
+sempre.
+
+| Elemento | Osservato | Tipo |
+|---|---|---|
+| Hashtag nel testo del post | 0 post su circa 100 (canale WhatsApp, gennaio-novembre 2026) | Assenza osservata |
+| Elenco puntato nelle anteprime, anche con quattro fronti | 0 post su circa 100 (stesso campione) | Assenza osservata |
+| Versioni per X | - | Divieto: canale sospeso |
+| Link nella didascalia Instagram | - | Divieto: su Instagram si rimanda alle storie |
+| Nomi di atleti negli hashtag | - | Divieto: tutela dei minori |
+| Trattino lungo nella denominazione | - | Divieto: scelta redazionale |
+
+Le assenze osservate si aggiornano a ogni nuova verifica sui post pubblicati,
+indicando il numero di post esaminati e il periodo.
+
 ## Regole di contenuto
 
 ### Ordine delle informazioni nei post risultati
@@ -362,6 +417,44 @@ maggiori corrono in gare diverse:
   arrivano fino al mantovano!");
 - se arrivano in momenti diversi, post separati; il secondo apre richiamando
   il primo ("Buona prova anche per il resto del gruppo...").
+
+### Piano della settimana
+
+Dal calendario degli impegni (gare, gare organizzate, eventi societari)
+produci la scaletta di ciò che va pubblicato, giorno per giorno. Il piano non
+contiene i testi: elenca i contenuti, quale skill e quale template li
+producono, e i dati da raccogliere prima di scriverli. Chiudi offrendo di
+scrivere il primo contenuto della scaletta.
+
+**Sequenza di base per un weekend di gare:**
+
+| Quando | Contenuto | Canali |
+|---|---|---|
+| 1-2 giorni prima della prima gara | Articolo anteprima sul sito, poi il post anteprima che lo rilancia | Sito, poi Facebook, canale WhatsApp, Instagram, Threads |
+| Sera di ogni giornata di gara | Flash per vittorie, titoli e top 10 di Esordienti e Allievi | Facebook, canale WhatsApp |
+| Giorno dopo la gara | Articolo risultati sul sito, poi il post risultati che lo rilancia | Sito, poi tutti i canali |
+
+Regole:
+
+- **L'articolo viene prima del post che lo rilancia**: il post contiene il link,
+  quindi l'articolo deve essere già pubblicato.
+- **Un'anteprima sola per tutto il fine settimana**, anche con più fronti e più
+  giorni; i risultati invece seguono le regole di "Giornate su più fronti".
+- Le gare organizzate dalla società hanno un ciclo proprio (annuncio, invito,
+  flash vincitori, post di giornata, video e album): inseriscilo per intero
+  nelle settimane che lo riguardano.
+- Gli eventi societari, gli sponsor e le iscrizioni vanno nei giorni senza gare,
+  per non sovrapporsi ai risultati.
+- Per ogni contenuto indica i **dati da raccogliere** (classifiche, ordini
+  d'arrivo, foto con liberatoria, link all'articolo, nome del fotografo): è la
+  parte del piano che serve davvero a chi segue la squadra sul campo.
+- Le date nel piano sono sempre assolute ("venerdì 28 novembre"), anche se i
+  post useranno poi "domani" e "ieri".
+- Se nel calendario mancano orari o località, il piano li segnala tra i dati da
+  raccogliere; non inventarli.
+
+Se l'utente indica abitudini diverse (es. anteprima sempre il giovedì), seguile
+al posto della sequenza di base.
 
 ### Formato dei nomi nei risultati
 
@@ -698,6 +791,24 @@ prova gratuita o open day, cosa portare, bici fornita o no.]
 💛💙
 
 ➡️ [Formula di rimando appropriata]: [link]
+```
+
+### piano-settimana
+
+```
+**Piano della settimana: [lunedì GG] - [domenica GG mese AAAA]**
+
+| Giorno | Contenuto | Skill e template | Canali | Dati da raccogliere |
+|---|---|---|---|---|
+| [giorno GG mese] | [Articolo anteprima: categorie e località] | editorial, anteprima-gare | Sito | [orari, distanze, link al programma] |
+| [giorno GG mese] | [Post anteprima che rilancia l'articolo] | social, pre-gara | Facebook, WhatsApp, Instagram, Threads | [link all'articolo] |
+| [giorno GG mese, sera] | [Flash: Esordienti/Allievi a località] | social, flash-risultato | Facebook, WhatsApp | [ordine d'arrivo, foto con liberatoria] |
+| [giorno GG mese] | [Articolo risultati: categoria e località] | editorial, risultati | Sito | [classifiche per sottocategoria, classifica di società] |
+| [giorno GG mese] | [Post risultati che rilancia l'articolo] | social, post-gara | Tutti | [link all'articolo, nome del fotografo] |
+
+[Una riga per ogni dato mancante nel calendario, se ce ne sono.]
+
+Vuoi che scriva [il primo contenuto della scaletta]?
 ```
 
 ### post-gara
